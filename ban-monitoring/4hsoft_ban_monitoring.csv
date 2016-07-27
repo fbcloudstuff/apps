@@ -1,37 +1,38 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-betfon_org;http://betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;http://www.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://register.betfon.org/reg/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://reg.betfon.org/users/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://account.betfon.org/MyAccount/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;http://results.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;http://stat.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://bets.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://live.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://toto.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://racing.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://fivelevel.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://virtualsports.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
-betfon_org;https://toto-info.betfon.org/test_object.js;http;Вэб зеркала / betfon.org;
+bet-in-fon_org;http://bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;http://www.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://register.bet-in-fon.org/reg/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://reg.bet-in-fon.org/users/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://account.bet-in-fon.org/MyAccount/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;http://results.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;http://stat.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://bets.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://live.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://toto.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://racing.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://fivelevel.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://virtualsports.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
+bet-in-fon_org;https://toto-info.bet-in-fon.org/test_object.js;http;Вэб зеркала ;
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
-fbappdn_registration;https://reg.fbappdn.com/users/assets/images/favicon.ico;http;Registration;
+#fbappdn_registration;https://reg.fbappdn.com/users/assets/images/favicon.ico;http;Registration;
 fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
+#forumfonbet.com;http://forumfonbet.com/styles/prosilver/imageset/icon_topic_latest.gif;http;forum;
 fbpr;http://185.82.210.23/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.42/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.43/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.77/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.78/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.79/test_object.js;http;fbpr01;
-fbpr;http://185.82.210.84/test_object.js;http;fbpr01;
+#fbpr;http://185.82.210.84/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.85/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.86/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.149/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.150/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.151/test_object.js;http;fbpr01;
-fbpr;http://185.82.210.152/test_object.js;http;fbpr01;
-fbpr;http://185.82.210.166/test_object.js;http;fbpr01;
+#fbpr;http://185.82.210.152/test_object.js;http;fbpr01;
+#fbpr;http://185.82.210.166/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.167/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.168/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.169/test_object.js;http;fbpr01;
@@ -72,6 +73,16 @@ fbla;https://fbla02-07.fbwebdn.net/servertime;http/json;LineAgent сервер;f
 fbla;https://fbla02-08.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-08
 fbla;https://fbla02-09.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-09
 fbla;https://fbla02-10.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-10
+fbca;188.42.196.86:8078;tcp;ClienAgent server;fbca01-01
+fbca;188.42.196.238:8078;tcp;ClienAgent server;fbca01-02
+fbca;188.42.196.239:8078;tcp;ClienAgent server;fbca01-03
+fbca;188.42.196.240:8078;tcp;ClienAgent server;fbca01-04
+fbca;188.42.196.241:8078;tcp;ClienAgent server;fbca01-05
+fbca;188.42.196.242:8078;tcp;ClienAgent server;fbca01-06
+fbca;188.42.196.243:8078;tcp;ClienAgent server;fbca01-07
+fbca;188.42.196.244:8078;tcp;ClienAgent server;fbca01-08
+fbca;188.42.196.245:8078;tcp;ClienAgent server;fbca01-09
+fbca;188.42.196.246:8078;tcp;ClienAgent server;fbca01-10
 android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/json/iplist;Домен для списков прокси;
 #cipl_android;4f988ef7c9e3da176a.xyz/cipl/test_object.js;http;Домен для списков прокси;fbandroid01
 #cipl_android;455f21cce6198b4db5.xyz/cipl/test_object.js;http;Домен для списков прокси;fbandroid02
@@ -103,12 +114,12 @@ android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/jso
 #cipl_ios;1907f73a166077fb3f11.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios08
 #cipl_ios;b260f1ce6df31b3a1b98.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios09
 #cipl_ios;896f69826523155d1755.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios10
-cipl_ios;8ac24309f039b75e651f.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios11
-cipl_ios;eccb2bb0dbd5ffd06d9b.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios12
+#cipl_ios;8ac24309f039b75e651f.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios11
+#cipl_ios;eccb2bb0dbd5ffd06d9b.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios12
 cipl_ios;bf647a4df84568bdd9dc.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios13
 cipl_ios;ce15a267864479babaf1.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios14
 cipl_ios;c1d5c02650070df55f45.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios15
-cipl_ios;c84a565b209bf7c75855.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios16
+#cipl_ios;c84a565b209bf7c75855.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios16
 cipl_ios;e2bf18fc048276077900.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios17
 cipl_ios;d4dbded416bd1af9b84b.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios18
 cipl_ios;fa45696947feba801d65.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios19
@@ -118,21 +129,35 @@ cipl_ios;fa45696947feba801d65.xyz/cipl/test_object.js;http;Домен для с�
 #cipl_winclient;http://188.42.196.114/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_03
 cipl_winclient;http://188.42.196.139/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_04
 cipl_winclient;http://188.42.196.140/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_05
-cipl_winclient;http://188.42.196.141/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_06
-cipl_winclient;http://188.42.196.142/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_07
-cipl_winclient;http://188.42.196.143/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_08
+#cipl_winclient;http://188.42.196.141/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_06
+#cipl_winclient;http://188.42.196.142/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_07
+#cipl_winclient;http://188.42.196.143/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_08
 cipl_winclient;http://188.42.196.144/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_09
 cipl_winclient;http://188.42.196.145/cipl/test_object.js;http;Домен для списков прокси;cipl_winclient_10
+fbls01;188.42.196.4/cipl/test_object.js;http;Домен для списков прокси;fbls_year_2016_andr
+fbls01;188.42.196.5/cipl/test_object.js;http;Домен для списков прокси;fbls_year_2016_ios
+fbls01;188.42.196.6/cipl/test_object.js;http;Домен для списков прокси;fbls_year_2016_wc
+fbls01;188.42.196.87/cipl/test_object.js;http;Домен для списков прокси;fbls_month_201607_andr
+fbls01;188.42.196.88/cipl/test_object.js;http;Домен для списков прокси;fbls_month_201607_ios
+fbls01;188.42.196.89/cipl/test_object.js;http;Домен для списков прокси;fbls_month_201607_wc
+fbls01;188.42.196.90/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
+fbls01;188.42.196.91/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
+#fbls01;188.42.196.121/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
+fbls01;188.42.196.122/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_ios
+fbls01;188.42.196.123/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_wc
+fbls01;188.42.196.124/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
+fbls01;188.42.196.125/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
+fbls01;188.42.196.126/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
+fbls01;188.42.196.7/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
 ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
 jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
 jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
 #mobile_clients_connection;https://m.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 #mobile_clients_connection;https://m1.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 #mobile_clients_connection;https://m2.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
-access;accessfonbet.info/test_object.js;http;Access sites;
-fbmetrix;fbmetrix.click/test_object.js;http;;fbmetrix.click
-fbmetrix;http://mp-04.fbmetrix.xyz/test_object.js;http;;mp-04.fbmetrix.xyz
-landing;fonbet3.info/lend/test_object.js;http;landing;
+access;ap-06.accessfonbet.info/test_object.js;http;Access sites;
+fbmetrix;mp-01.fbmetrix.club//test_object.js;http;fbmetrix;
+landing;lp-02.fonbetting.info/lend/test_object.js;http;landing;
 #fon_bet_com;http://fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;http://www.fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;https://register.fon-bet.com/reg/test_object.js;http;Вэб зеркала / fon-bet.com;
@@ -186,7 +211,7 @@ fbps01;https://188.42.137.188:9444/showToto;http/json;;
 #fbps01;https://185.82.210.20:9444/showToto;http/json;;
 #fbps01;https://185.82.210.21:9444/showToto;http/json;;
 #fbps01;https://185.82.210.22:9444/showToto;http/json;;
-fbps01;https://185.82.210.122:9444/showToto;http/json;;
+#fbps01;https://185.82.210.122:9444/showToto;http/json;;
 #fbps01;https://185.82.210.2:9444/showToto;http/json;;
 fbps01;https://185.82.210.229:9444/showToto;http/json;;
 fbps01;https://185.82.210.230:9444/showToto;http/json;;
@@ -195,13 +220,13 @@ fbps01;https://185.82.210.236:9444/showToto;http/json;;
 #fbps01;https://185.82.210.237:9444/showToto;http/json;;
 #fbps01;https://185.82.210.238:9444/showToto;http/json;;
 fbps01;https://185.82.210.3:9444/showToto;http/json;;
-fbps01;https://185.82.210.44:9444/showToto;http/json;;
+#fbps01;https://185.82.210.44:9444/showToto;http/json;;
 #fbps01;https://185.82.210.8:9444/showToto;http/json;;
 fbps01;https://185.82.210.80:9444/showToto;http/json;;
 fbps01;https://185.82.210.81:9444/showToto;http/json;;
-fbps01;https://185.82.210.82:9444/showToto;http/json;;
-fbps01;https://185.82.210.83:9444/showToto;http/json;;
-fbps01;https://185.82.210.17:9444/showToto;http/json;;
+#fbps01;https://185.82.210.82:9444/showToto;http/json;;
+#fbps01;https://185.82.210.83:9444/showToto;http/json;;
+#fbps01;https://185.82.210.17:9444/showToto;http/json;;
 fbps01;https://185.82.210.18:9444/showToto;http/json;;
 fbps01;https://185.82.210.195:9444/showToto;http/json;;
 fbps01;https://185.82.210.196:9444/showToto;http/json;;
