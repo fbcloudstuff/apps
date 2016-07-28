@@ -33,7 +33,7 @@ fbpr;http://185.82.210.150/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.151/test_object.js;http;fbpr01;
 #fbpr;http://185.82.210.152/test_object.js;http;fbpr01;
 #fbpr;http://185.82.210.166/test_object.js;http;fbpr01;
-fbpr;http://185.82.210.167/test_object.js;http;fbpr01;
+#fbpr;http://185.82.210.167/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.168/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.169/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.185/test_object.js;http;fbpr01;
@@ -157,7 +157,7 @@ jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Д
 #mobile_clients_connection;https://m2.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 access;ap-06.accessfonbet.info/test_object.js;http;Access sites;
 fbmetrix;mp-02.fbmetrix.club//test_object.js;http;fbmetrix;
-landing;lp-02.fonbetting.info/lend/test_object.js;http;landing;
+landing;lp-03.fonbetting.info/lend/test_object.js;http;landing;
 #fon_bet_com;http://fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;http://www.fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;https://register.fon-bet.com/reg/test_object.js;http;Вэб зеркала / fon-bet.com;
