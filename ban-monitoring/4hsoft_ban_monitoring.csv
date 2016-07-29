@@ -3,18 +3,18 @@
 5000-srv;81.198.186.109:5000;tcp;;5000b
 betsfon_org;http://betsfon.org/test_object.js;http;Вэб зеркала ;
 betsfon_org;http://www.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://register.betsfon.org/reg/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://reg.betsfon.org/users/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://account.betsfon.org/MyAccount/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://register.betsfon.org/reg/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://reg.betsfon.org/users/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://account.betsfon.org/MyAccount/test_object.js;http;Вэб зеркала ;
 betsfon_org;http://results.betsfon.org/test_object.js;http;Вэб зеркала ;
 betsfon_org;http://stat.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://bets.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://live.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://toto.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://racing.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://fivelevel.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://virtualsports.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon.org;https://toto-info.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://bets.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://live.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://toto.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://racing.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://fivelevel.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://virtualsports.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon_org;https://toto-info.betsfon.org/test_object.js;http;Вэб зеркала ;
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 #fbappdn_registration;https://reg.fbappdn.com/users/assets/images/favicon.ico;http;Registration;
 fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
@@ -145,8 +145,8 @@ fbls01;188.42.196.91/cipl/test_object.js;http;Домен для списков �
 #fbls01;188.42.196.121/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
 fbls01;188.42.196.122/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_ios
 fbls01;188.42.196.123/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_wc
-fbls01;188.42.196.124/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
-fbls01;188.42.196.125/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
+#fbls01;188.42.196.124/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
+fbls01;188.42.196.125/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
 fbls01;188.42.196.126/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
 fbls01;188.42.196.7/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
 ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
