@@ -1,20 +1,20 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-betsfon_net;http://betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;http://www.betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://register.betsfon.net/reg/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://reg.betsfon.net/users/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://account.betsfon.net/MyAccount/test_object.js;http;Вэб зеркала ;
-betsfon_net;http://results.betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;http://stat.betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://bets.betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://live.betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://toto.betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://racing.betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://fivelevel.betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://virtualsports.betsfon.net/test_object.js;http;Вэб зеркала ;
-betsfon_net;https://toto-info.betsfon.net/test_object.js;http;Вэб зеркала ;
+betsfon_org;http://betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon_org;http://www.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://register.betsfon.org/reg/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://reg.betsfon.org/users/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://account.betsfon.org/MyAccount/test_object.js;http;Вэб зеркала ;
+betsfon_org;http://results.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon_org;http://stat.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://bets.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://live.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://toto.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://racing.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://fivelevel.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://virtualsports.betsfon.org/test_object.js;http;Вэб зеркала ;
+betsfon.org;https://toto-info.betsfon.org/test_object.js;http;Вэб зеркала ;
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 #fbappdn_registration;https://reg.fbappdn.com/users/assets/images/favicon.ico;http;Registration;
 fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
@@ -33,7 +33,7 @@ fbpr;http://185.82.210.150/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.151/test_object.js;http;fbpr01;
 #fbpr;http://185.82.210.152/test_object.js;http;fbpr01;
 #fbpr;http://185.82.210.166/test_object.js;http;fbpr01;
-#fbpr;http://185.82.210.167/test_object.js;http;fbpr01;
+fbpr;http://185.82.210.167/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.168/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.169/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.185/test_object.js;http;fbpr01;
@@ -157,7 +157,7 @@ jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Д
 #mobile_clients_connection;https://m2.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 access;ap-06.accessfonbet.info/test_object.js;http;Access sites;
 fbmetrix;mp-02.fbmetrix.club//test_object.js;http;fbmetrix;
-landing;lp-03.fonbetting.info/lend/test_object.js;http;landing;
+landing;lp-02.fonbetting.info/lend/test_object.js;http;landing;
 #fon_bet_com;http://fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;http://www.fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;https://register.fon-bet.com/reg/test_object.js;http;Вэб зеркала / fon-bet.com;
