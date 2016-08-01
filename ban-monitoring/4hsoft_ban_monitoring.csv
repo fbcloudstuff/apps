@@ -157,7 +157,7 @@ jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Д
 #mobile_clients_connection;https://m1.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 #mobile_clients_connection;https://m2.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 access;ap-01.accessfonbet.org/test_object.js;http;Access sites;
-fbmetrix;mp-04.fbmetrix.club//test_object.js;http;fbmetrix;
+fbmetrix;mp-04.fbmetrix.club/test_object.js;http;fbmetrix;
 landing;lp-03.fonbetting.info/lend/test_object.js;http;landing;
 #fon_bet_com;http://fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;http://www.fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
