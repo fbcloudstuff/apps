@@ -1,20 +1,20 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-betsfon_org;http://betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;http://www.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://register.betsfon.org/reg/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://reg.betsfon.org/users/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://account.betsfon.org/MyAccount/test_object.js;http;Вэб зеркала ;
-betsfon_org;http://results.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;http://stat.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://bets.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://live.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://toto.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://racing.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://fivelevel.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://virtualsports.betsfon.org/test_object.js;http;Вэб зеркала ;
-betsfon_org;https://toto-info.betsfon.org/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;http://bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;http://www.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://register.bkfonbet.pro/reg/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://reg.bkfonbet.pro/users/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://account.bkfonbet.pro/MyAccount/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;http://results.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;http://stat.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://bets.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://live.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://toto.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://racing.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://fivelevel.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://virtualsports.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+bkfonbet_pro;https://toto-info.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
 winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 #fbappdn_registration;https://reg.fbappdn.com/users/assets/images/favicon.ico;http;Registration;
