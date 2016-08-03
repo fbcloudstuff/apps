@@ -147,7 +147,7 @@ fbls01;188.42.196.91/cipl/test_object.js;http;Домен для списков �
 fbls01;188.42.196.122/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_ios
 fbls01;188.42.196.123/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_wc
 fbls01;188.42.196.124/cipl/test_object.js;http;Домен для списков прокси;andr ban 20160729
-fbls01;188.42.196.125/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
+#fbls01;188.42.196.125/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
 fbls01;188.42.196.126/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
 fbls01;188.42.196.7/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
 ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
@@ -224,16 +224,16 @@ fbps01;https://185.82.210.3:9444/showToto;http/json;;
 #fbps01;https://185.82.210.44:9444/showToto;http/json;;
 #fbps01;https://185.82.210.8:9444/showToto;http/json;;
 #fbps01;https://185.82.210.80:9444/showToto;http/json;;
-fbps01;https://185.82.210.81:9444/showToto;http/json;;
+#fbps01;https://185.82.210.81:9444/showToto;http/json;;
 #fbps01;https://185.82.210.82:9444/showToto;http/json;;
-#fbps01;https://185.82.210.83:9444/showToto;http/json;;
+fbps01;https://185.82.210.83:9444/showToto;http/json;;
 #fbps01;https://185.82.210.17:9444/showToto;http/json;;
 fbps01;https://185.82.210.18:9444/showToto;http/json;;
 #fbps01;https://185.82.210.195:9444/showToto;http/json;;
 #fbps01;https://185.82.210.196:9444/showToto;http/json;;
 fbps01;https://185.82.210.197:9444/showToto;http/json;;
 fbps01;https://185.82.210.198:9444/showToto;http/json;;
-fbps01;https://185.82.210.221:9444/showToto;http/json;;
+#fbps01;https://185.82.210.221:9444/showToto;http/json;;
 fbps01;https://185.82.210.222:9444/showToto;http/json;;
 fbps01;https://185.82.210.223:9444/showToto;http/json;;
 fbps01;https://185.82.210.224:9444/showToto;http/json;;
