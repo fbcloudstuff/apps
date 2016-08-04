@@ -2,7 +2,7 @@
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
 bkfonbet_pro;http://bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;http://www.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
+#bkfonbet_pro;http://www.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
 bkfonbet_pro;https://register.bkfonbet.pro/reg/test_object.js;http;Вэб зеркала ;
 bkfonbet_pro;https://reg.bkfonbet.pro/users/test_object.js;http;Вэб зеркала ;
 bkfonbet_pro;https://account.bkfonbet.pro/MyAccount/test_object.js;http;Вэб зеркала ;
@@ -57,7 +57,7 @@ fbpr;http://185.82.210.187/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.225/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.226/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.227/test_object.js;http;fbpr01;
-fbpr;http://185.82.210.239/test_object.js;http;fbpr01;
+#fbpr;http://185.82.210.239/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.240/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.241/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.242/test_object.js;http;fbpr01;
@@ -162,7 +162,7 @@ fbls01;188.42.196.122/cipl/test_object.js;http;Домен для списков 
 fbls01;188.42.196.123/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_wc
 fbls01;188.42.196.124/cipl/test_object.js;http;Домен для списков прокси;andr ban 20160729
 #fbls01;188.42.196.125/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
-fbls01;188.42.196.126/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
+#fbls01;188.42.196.126/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
 fbls01;188.42.196.7/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
 ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
 jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
@@ -170,7 +170,7 @@ jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Д
 #mobile_clients_connection;https://m.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 #mobile_clients_connection;https://m1.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 #mobile_clients_connection;https://m2.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
-access;ap-01.accessfonbet.org/test_object.js;http;Access sites;
+#access;ap-01.accessfonbet.org/test_object.js;http;Access sites;
 fbmetrix;mp-04.fbmetrix.club/test_object.js;http;fbmetrix;
 landing;lp-03.fonbetting.info/lend/test_object.js;http;landing;
 #fon_bet_com;http://fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
