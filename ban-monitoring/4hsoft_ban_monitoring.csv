@@ -1,20 +1,6 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-bkfonbet_pro;http://bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-#bkfonbet_pro;http://www.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://register.bkfonbet.pro/reg/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://reg.bkfonbet.pro/users/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://account.bkfonbet.pro/MyAccount/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;http://results.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;http://stat.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://bets.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://live.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://toto.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://racing.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://fivelevel.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://virtualsports.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
-bkfonbet_pro;https://toto-info.bkfonbet.pro/test_object.js;http;Вэб зеркала ;
 fonbet_black;http://fonbet.black/test_object.js;http;Вэб зеркала ;
 fonbet_black;http://www.fonbet.black/test_object.js;http;Вэб зеркала ;
 fonbet_black;https://register.fonbet.black/reg/test_object.js;http;Вэб зеркала ;
@@ -67,7 +53,7 @@ fbpr;http://185.82.210.250/test_object.js;http;fbpr01;
 kladr;http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F;http;KLADR;kladr@mskdc
 line;https://line.fbwebdn.net/servertime;http/json;line.fb*dn;
 line;https://line.fbwebdn.com/servertime;http/json;line.fb*dn;
-line;https://line.fbappdn.com/servertime;http/json;line.fb*dn;
+#line;https://line.fbappdn.com/servertime;http/json;line.fb*dn;
 fbla;https://fbla01-01.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-01
 fbla;https://fbla01-02.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-02
 fbla;https://fbla01-03.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-03
@@ -170,9 +156,9 @@ jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Д
 #mobile_clients_connection;https://m.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 #mobile_clients_connection;https://m1.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
 #mobile_clients_connection;https://m2.fbappdn.com:9444/showToto;http/json;Подключение мобильных клиентов;
-#access;ap-01.accessfonbet.org/test_object.js;http;Access sites;
+access;ap-02.accessfonbet.org/test_object.js;http;Access sites;
 fbmetrix;mp-04.fbmetrix.club/test_object.js;http;fbmetrix;
-landing;lp-03.fonbetting.info/lend/test_object.js;http;landing;
+landing;lp-05.fonbetting.info/lend/test_object.js;http;landing;
 #fon_bet_com;http://fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;http://www.fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;https://register.fon-bet.com/reg/test_object.js;http;Вэб зеркала / fon-bet.com;
