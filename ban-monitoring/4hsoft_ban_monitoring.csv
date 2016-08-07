@@ -273,10 +273,10 @@ xen_app;https://bkfon-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_
 xen_app;https://cuo-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_cuo
 js.fbsvc.bz_live;http://js.fbsvc.bz/live/currentLine/ru;;js.fbsvc.bz_live;
 js.fbsvc.bz_line;http://js.fbsvc.bz/line/currentLine/ru;;js.fbsvc.bz_line;
-ЦС;5000a.bkfon.ru:5000;tcp;;ОсновнойА
-ЦС;5000b.bkfon.ru:5000;tcp;;ОсновнойБ
-ЦС;81.198.186.9:5000;tcp;;Прямой
-ЦС;5000.fonbet.com:5000;tcp;;Резервный2
-ЦС;5000.fonbet.info:5000;tcp;;Резервный3
-ЦС;5000a.fonarm.com:5000;tcp;;ДополнительныйА
-ЦС;5000b.fonarm.com:5000;tcp;;ДополнительныйБ
+ЦС;5000a.bkfon.ru:5000;tcp;ОсновнойА;
+ЦС;5000b.bkfon.ru:5000;tcp;ОсновнойБ;
+ЦС;81.198.186.9:5000;tcp;Прямой;
+ЦС;5000.fonbet.com:5000;tcp;Резервный2;
+ЦС;5000.fonbet.info:5000;tcp;Резервный3;
+ЦС;5000a.fonarm.com:5000;tcp;ДополнительныйА;
+ЦС;5000b.fonarm.com:5000;tcp;ДополнительныйБ;
