@@ -1,6 +1,11 @@
 # service [domain];url;validate;service_caption;host_caption [service]
-5000-srv;81.198.186.9:5000;tcp;;5000a
-5000-srv;81.198.186.109:5000;tcp;;5000b
+5000-srv;5000a.bkfon.ru:5000;tcp;;ОсновнойА
+5000-srv;5000b.bkfon.ru:5000;tcp;;ОсновнойБ
+5000-srv;81.198.186.9:5000;tcp;;Прямой
+5000-srv;5000.fonbet.com:5000;tcp;;Резервный2
+5000-srv;5000.fonbet.info:5000;tcp;;Резервный3
+5000-srv;5000a.fonarm.com:5000;tcp;;ДополнительныйА
+5000-srv;5000b.fonarm.com:5000;tcp;;ДополнительныйБ
 fonbet_cc;http://fonbet.cc/test_object.js;http;;Вэб зеркала / main
 fonbet_cc;http://www.fonbet.cc/test_object.js;http;;Вэб зеркала / www
 fonbet_cc;https://register.fonbet.cc/reg/test_object.js;http;;Вэб зеркала / register
@@ -273,10 +278,3 @@ xen_app;https://bkfon-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_
 xen_app;https://cuo-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_cuo
 js.fbsvc.bz_live;http://js.fbsvc.bz/live/currentLine/ru;;js.fbsvc.bz_live;
 js.fbsvc.bz_line;http://js.fbsvc.bz/line/currentLine/ru;;js.fbsvc.bz_line;
-ЦС;5000a.bkfon.ru:5000;tcp;ОсновнойА;
-ЦС;5000b.bkfon.ru:5000;tcp;ОсновнойБ;
-ЦС;81.198.186.9:5000;tcp;Прямой;
-ЦС;5000.fonbet.com:5000;tcp;Резервный2;
-ЦС;5000.fonbet.info:5000;tcp;Резервный3;
-ЦС;5000a.fonarm.com:5000;tcp;ДополнительныйА;
-ЦС;5000b.fonarm.com:5000;tcp;ДополнительныйБ;
