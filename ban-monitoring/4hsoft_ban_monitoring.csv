@@ -1,20 +1,20 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-fonbet_black;http://fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;http://www.fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://register.fonbet.black/reg/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://reg.fonbet.black/users/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://account.fonbet.black/MyAccount/test_object.js;http;Вэб зеркала ;
-fonbet_black;http://results.fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;http://stat.fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://bets.fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://live.fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://toto.fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://racing.fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://fivelevel.fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://virtualsports.fonbet.black/test_object.js;http;Вэб зеркала ;
-fonbet_black;https://toto-info.fonbet.black/test_object.js;http;Вэб зеркала ;
+fonbet_blue;http://fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;http://www.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://register.fonbet.blue/reg/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://reg.fonbet.blue/users/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://account.fonbet.blue/MyAccount/test_object.js;http;Вэб зеркала ;
+fonbet_blue;http://results.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;http://stat.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://bets.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://live.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://toto.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://racing.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://fivelevel.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://virtualsports.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_blue;https://toto-info.fonbet.blue/test_object.js;http;Вэб зеркала ;
 winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 #fbappdn_registration;https://reg.fbappdn.com/users/assets/images/favicon.ico;http;Registration;
