@@ -142,7 +142,7 @@ fbls01;188.42.196.87/cipl/test_object.js;http;Домен для списков �
 fbls01;188.42.196.88/cipl/test_object.js;http;Домен для списков прокси;fbls_month_201607_ios
 fbls01;188.42.196.89/cipl/test_object.js;http;Домен для списков прокси;fbls_month_201607_wc
 fbls01;188.42.196.90/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
-fbls01;188.42.196.91/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
+#fbls01;188.42.196.91/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
 #fbls01;188.42.196.121/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
 fbls01;188.42.196.122/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_ios
 fbls01;188.42.196.123/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_wc
@@ -235,8 +235,8 @@ fbps01;https://185.82.210.197:9444/showToto;http/json;;
 #fbps01;https://185.82.210.198:9444/showToto;http/json;;
 #fbps01;https://185.82.210.221:9444/showToto;http/json;;
 #fbps01;https://185.82.210.222:9444/showToto;http/json;;
-fbps01;https://185.82.210.223:9444/showToto;http/json;;
-fbps01;https://185.82.210.224:9444/showToto;http/json;;
+#fbps01;https://185.82.210.223:9444/showToto;http/json;;
+#fbps01;https://185.82.210.224:9444/showToto;http/json;;
 #fbps31 ;https://95.211.203.116:9444/showToto;http/json;;
 fbps31 ;https://95.211.203.115:9444/showToto;http/json;;
 fbps31 ;https://95.211.203.117:9444/showToto;http/json;;
