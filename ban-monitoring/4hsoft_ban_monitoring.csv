@@ -1,20 +1,20 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-fonbet_blue;http://fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;http://www.fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://register.fonbet.blue/reg/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://reg.fonbet.blue/users/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://account.fonbet.blue/MyAccount/test_object.js;http;Вэб зеркала ;
-fonbet_blue;http://results.fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;http://stat.fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://bets.fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://live.fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://toto.fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://racing.fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://fivelevel.fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://virtualsports.fonbet.blue/test_object.js;http;Вэб зеркала ;
-fonbet_blue;https://toto-info.fonbet.blue/test_object.js;http;Вэб зеркала ;
+fonbet_bid;http://fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;http://www.fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://register.fonbet.bid/reg/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://reg.fonbet.bid/users/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://account.fonbet.bid/MyAccount/test_object.js;http;Вэб зеркала ;
+fonbet_bid;http://results.fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;http://stat.fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://bets.fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://live.fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://toto.fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://racing.fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://fivelevel.fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://virtualsports.fonbet.bid/test_object.js;http;Вэб зеркала ;
+fonbet_bid;https://toto-info.fonbet.bid/test_object.js;http;Вэб зеркала ;
 winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 #fbappdn_registration;https://reg.fbappdn.com/users/assets/images/favicon.ico;http;Registration;
@@ -46,7 +46,7 @@ fbpr;http://185.82.210.227/test_object.js;http;fbpr01;
 #fbpr;http://185.82.210.239/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.240/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.241/test_object.js;http;fbpr01;
-fbpr;http://185.82.210.242/test_object.js;http;fbpr01;
+#fbpr;http://185.82.210.242/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.248/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.249/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.250/test_object.js;http;fbpr01;
