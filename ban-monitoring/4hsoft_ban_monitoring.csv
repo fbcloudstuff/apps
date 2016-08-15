@@ -149,7 +149,7 @@ fbls01;188.42.196.123/cipl/test_object.js;http;Домен для списков 
 fbls01;188.42.196.124/cipl/test_object.js;http;Домен для списков прокси;andr ban 20160729
 #fbls01;188.42.196.125/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_andr
 #fbls01;188.42.196.126/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
-fbls01;188.42.196.7/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
+#fbls01;188.42.196.7/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
 ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
 jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
 jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
