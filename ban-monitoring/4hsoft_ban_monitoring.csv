@@ -1,20 +1,21 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-fonbet_bid;http://fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;http://www.fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://register.fonbet.bid/reg/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://reg.fonbet.bid/users/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://account.fonbet.bid/MyAccount/test_object.js;http;Вэб зеркала ;
-fonbet_bid;http://results.fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;http://stat.fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://bets.fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://live.fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://toto.fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://racing.fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://fivelevel.fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://virtualsports.fonbet.bid/test_object.js;http;Вэб зеркала ;
-fonbet_bid;https://toto-info.fonbet.bid/test_object.js;http;Вэб зеркала ;
+bk-fon_com;http://bk-fon.com/test_object.js;http;;
+bk-fon_com;https://m.bk-fon.com/favicons/manifest.json;http/json;Вэб зеркала ;
+bk-fon_com;http://www.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://register.bk-fon.com/reg/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://reg.bk-fon.com/users/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://account.bk-fon.com/MyAccount/test_object.js;http;Вэб зеркала ;
+bk-fon_com;http://results.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bk-fon_com;http://stat.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://bets.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://live.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://toto.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://racing.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://fivelevel.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://virtualsports.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bk-fon_com;https://toto-info.bk-fon.com/test_object.js;http;Вэб зеркала ;
 winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 #fbappdn_registration;https://reg.fbappdn.com/users/assets/images/favicon.ico;http;Registration;
