@@ -282,7 +282,7 @@ fbps02;https://188.42.196.82:9444/showToto;http/json;;
 fbps02;https://188.42.196.83:9444/showToto;http/json;;
 fbps02;https://188.42.196.84:9444/showToto;http/json;;
 fbps02;https://188.42.196.85:9444/showToto;http/json;;
-fbps02;https://188.42.196.96:9444/showToto;http/json;;
+#fbps02;https://188.42.196.96:9444/showToto;http/json;;
 fbps02;https://188.42.196.116:9444/showToto;http/json;;
 fbps02;https://188.42.196.117:9444/showToto;http/json;;
 fbps02;https://188.42.196.118:9444/showToto;http/json;;
