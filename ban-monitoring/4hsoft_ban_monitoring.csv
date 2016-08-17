@@ -1,21 +1,36 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-bk-fon_com;http://bk-fon.com/test_object.js;http;;
-bk-fon_com;https://m.bk-fon.com/favicons/manifest.json;http/json;Вэб зеркала ;
-bk-fon_com;http://www.bk-fon.com/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://register.bk-fon.com/reg/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://reg.bk-fon.com/users/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://account.bk-fon.com/MyAccount/test_object.js;http;Вэб зеркала ;
-bk-fon_com;http://results.bk-fon.com/test_object.js;http;Вэб зеркала ;
-bk-fon_com;http://stat.bk-fon.com/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://bets.bk-fon.com/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://live.bk-fon.com/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://toto.bk-fon.com/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://racing.bk-fon.com/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://fivelevel.bk-fon.com/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://virtualsports.bk-fon.com/test_object.js;http;Вэб зеркала ;
-bk-fon_com;https://toto-info.bk-fon.com/test_object.js;http;Вэб зеркала ;
+bukmekerfonbet.com;http://bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;https://m.bukmekerfonbet.com/favicons/manifest.json;http/json;;
+bukmekerfonbet.com;http://www.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;https://register.bukmekerfonbet.com/reg/test_object.js;http;;
+bukmekerfonbet.com;https://reg.bukmekerfonbet.com/users/test_object.js;http;;
+bukmekerfonbet.com;https://account.bukmekerfonbet.com/MyAccount/test_object.js;http;;
+bukmekerfonbet.com;http://results.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;http://stat.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;https://bets.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;https://live.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;https://toto.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;https://racing.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;https://fivelevel.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;https://virtualsports.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfonbet.com;https://toto-info.bukmekerfonbet.com/test_object.js;http;;
+bukmekerfon.com;http://bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;https://m.bukmekerfon.com/favicons/manifest.json;http/json;;
+bukmekerfon.com;http://www.bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;https://register.bukmekerfon.com/reg/test_object.js;http;;
+bukmekerfon.com;https://reg.bukmekerfon.com/users/test_object.js;http;;
+bukmekerfon.com;https://account.bukmekerfon.com/MyAccount/test_object.js;http;;
+bukmekerfon.com;http://results.bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;http://stat.bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;https://bets.bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;https://live.bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;https://toto.bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;https://racing.bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;https://fivelevel.bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;https://virtualsports.bukmekerfon.com/test_object.js;http;;
+bukmekerfon.com;https://toto-info.bukmekerfon.com/test_object.js;http;;
 winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 #fbappdn_registration;https://reg.fbappdn.com/users/assets/images/favicon.ico;http;Registration;
