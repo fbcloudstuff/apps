@@ -1,21 +1,6 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-bukmekerfonbet_com;http://bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;https://m.bukmekerfonbet.com/favicons/manifest.json;http/json;;
-bukmekerfonbet_com;http://www.bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;https://register.bukmekerfonbet.com/reg/test_object.js;http;;
-bukmekerfonbet_com;https://reg.bukmekerfonbet.com/users/test_object.js;http;;
-bukmekerfonbet_com;https://account.bukmekerfonbet.com/MyAccount/test_object.js;http;;
-bukmekerfonbet_com;http://results.bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;http://stat.bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;https://bets.bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;https://live.bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;https://toto.bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;https://racing.bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;https://fivelevel.bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;https://virtualsports.bukmekerfonbet.com/test_object.js;http;;
-bukmekerfonbet_com;https://toto-info.bukmekerfonbet.com/test_object.js;http;;
 bukmekerfon_com;http://bukmekerfon.com/test_object.js;http;;
 bukmekerfon_com;https://m.bukmekerfon.com/favicons/manifest.json;http/json;;
 bukmekerfon_com;http://www.bukmekerfon.com/test_object.js;http;;
@@ -41,7 +26,7 @@ fbpr;http://185.82.210.42/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.43/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.77/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.78/test_object.js;http;fbpr01;
-fbpr;http://185.82.210.79/test_object.js;http;fbpr01;
+#fbpr;http://185.82.210.79/test_object.js;http;fbpr01;
 #fbpr;http://185.82.210.84/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.85/test_object.js;http;fbpr01;
 fbpr;http://185.82.210.86/test_object.js;http;fbpr01;
