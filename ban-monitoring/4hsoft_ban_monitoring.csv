@@ -159,7 +159,7 @@ jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Д
 #mobile_clients_connection;https://m2.fbappdn.com:9444/serverTime;http/json;Подключение мобильных клиентов;
 access_page;ap-01.accessfonbet.club/test_object.js;http;access_page;
 landing_page;lp-04.foninfobet.info/lend/test_object.js;http;landing_page;
-metrix_page;mp-03.smartdirectroute.org/test_object.js;http;metrix_page;
+metrix_page;mp-04.smartdirectroute.org/test_object.js;http;metrix_page;
 metrix_page;mp-02.smartdirectroute.club/test_object.js;http;metrix_page;
 #fon_bet_com;http://fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
 #fon_bet_com;http://www.fon-bet.com/test_object.js;http;Вэб зеркала / fon-bet.com;
