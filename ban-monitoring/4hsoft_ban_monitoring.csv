@@ -119,7 +119,7 @@ android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/jso
 #cipl_ios;896f69826523155d1755.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios10
 #cipl_ios;8ac24309f039b75e651f.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios11
 #cipl_ios;eccb2bb0dbd5ffd06d9b.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios12
-cipl_ios;bf647a4df84568bdd9dc.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios13
+#cipl_ios;bf647a4df84568bdd9dc.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios13
 cipl_ios;ce15a267864479babaf1.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios14
 cipl_ios;c1d5c02650070df55f45.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios15
 #cipl_ios;c84a565b209bf7c75855.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios16
@@ -244,9 +244,9 @@ fbps01;https://185.82.210.236:9444/serverTime;http/json;;
 #fbps02;https://188.42.189.128:9444/serverTime;http/json;;
 #fbps02;https://188.42.189.129:9444/serverTime;http/json;;
 #fbps02;https://188.42.189.130:9444/serverTime;http/json;;
-fbps02;https://188.42.189.131:9444/serverTime;http/json;;
+#fbps02;https://188.42.189.131:9444/serverTime;http/json;;
 fbps02;https://188.42.189.132:9444/serverTime;http/json;;
-fbps02;https://188.42.189.133:9444/serverTime;http/json;;
+#fbps02;https://188.42.189.133:9444/serverTime;http/json;;
 fbps02;https://188.42.189.134:9444/serverTime;http/json;;
 fbps02;https://188.42.189.135:9444/serverTime;http/json;;
 fbps02;https://188.42.189.136:9444/serverTime;http/json;;
