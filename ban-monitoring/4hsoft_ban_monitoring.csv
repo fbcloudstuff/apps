@@ -1,8 +1,10 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 #Google-dns-test;8.8.8.8:53;tcp;;
-winclient_via_proxy;188.42.189.136:1080->81.198.186.69:2350;tcp;ВинКлиент via Proxy;WinClient via Proxy
-winclient_next_via_proxy;188.42.189.138:1080->81.198.186.69:2350;tcp;ВинКлиент next via Proxy;WinClient next via Proxy
-mobileclient_via_proxy;https://188.42.189.138:9444/serverTime;http/json;МобильныеКлиенты via Proxy;MobileClient via Proxy
+winclient_via_proxy;188.42.189.136:1080->81.198.186.69:2350;tcp;ВинКлиент via Proxy;current
+winclient_via_proxy;188.42.189.138:1080->81.198.186.69:2350;tcp;ВинКлиент via Proxy;next
+mobileclient_via_proxy;https://188.42.189.138:9444/serverTime;http/json;МобильныеКлиенты via Proxy;current
+winclient_via_proxy;188.42.189.137:1080->81.198.186.69:2350;tcp;ВинКлиент next via Proxy;winclient banned
+mobileclient_via_proxy;https://188.42.189.134:9444/serverTime;http/json;МобильныеКлиенты via Proxy;mobileclient banned
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
 fonstavka_com;http://fonstavka.com/test_object.js;http;;
