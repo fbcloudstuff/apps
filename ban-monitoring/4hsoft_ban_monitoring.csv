@@ -3,8 +3,8 @@
 winclient_via_proxy;188.42.189.136:1080->81.198.186.69:2350;tcp;Winclient current;Winclient current
 winclient_next_via_proxy;188.42.189.138:1080->81.198.186.69:2350;tcp;Winclient next;Winclient next
 mobileclient_via_proxy;https://188.42.189.138:9444/serverTime;http/json;Mobileclient current;Mobileclient current
-winclient_banned_via_proxy;188.42.189.137:1080->81.198.186.69:2350;tcp;winclient banned;winclient banned
-mobileclient_banned_via_proxy;https://188.42.189.134:9444/serverTime;http/json;mobileclient banned;mobileclient banned
+#winclient_banned_via_proxy;188.42.189.137:1080->81.198.186.69:2350;tcp;winclient banned;winclient banned
+#mobileclient_banned_via_proxy;https://188.42.189.134:9444/serverTime;http/json;mobileclient banned;mobileclient banned
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
 sportinfon_org;http://sportinfon.org/test_object.js;http;;
@@ -96,7 +96,6 @@ fbca;188.42.196.244:8078;tcp;ClienAgent server;fbca01-08
 fbca;188.42.196.245:8078;tcp;ClienAgent server;fbca01-09
 fbca;188.42.196.246:8078;tcp;ClienAgent server;fbca01-10
 android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/json/iplist;Домен для списков прокси;
-cipl_ios;ce15a267864479babaf1.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios14
 cipl_ios;c1d5c02650070df55f45.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios15
 cipl_ios;e2bf18fc048276077900.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios17
 cipl_ios;d4dbded416bd1af9b84b.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios18
@@ -114,9 +113,8 @@ fbls01;188.42.196.124/cipl/test_object.js;http;Домен для списков 
 ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
 jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
 jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
-access_page;ap-05.accessfonbet.club/test_object.js;http;access_page;
-landing_page;lp-01.infoinbet.info/lend/test_object.js;http;landing_page;
-metrix_page;mp-05.smartdirectroute.org/test_object.js;http;metrix_page;
+access_page;ap-02.accessfonbet.click/test_object.js;http;access_page;
+landing_page;lp-02.infoinbet.info/lend/test_object.js;http;landing_page;
 metrix_page;mp-02.smartdirectroute.club/test_object.js;http;metrix_page;
 metrix_page;mp-01.smartdirectroute.info/test_object.js;http;metrix_page;
 devtest;https://js.dvtfb.com/serverTime;http/json;;devtest-js
