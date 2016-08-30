@@ -115,8 +115,9 @@ jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;До
 jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
 access_page;ap-02.accessfonbet.click/test_object.js;http;access_page;
 landing_page;lp-02.infoinbet.info/lend/test_object.js;http;landing_page;
-metrix_page;mp-02.smartdirectroute.club/test_object.js;http;metrix_page;
-metrix_page;mp-02.smartdirectroute.xyz/test_object.js;http;metrix_page;
+metrix_page;mp-04.smartdirectroute.club/test_object.js;http;metrix_page «int»;
+metrix_page;mp-02.smartdirectroute.xyz/test_object.js;http;metrix_page «for all»;
+metrix_page;mp-02.smartdirectroute.info/test_object.js;http;metrix_page «adv»;
 devtest;https://js.dvtfb.com/serverTime;http/json;;devtest-js
 fbps01;https://185.82.210.231:9444/serverTime;http/json;;
 fbps01;https://185.82.210.232:9444/serverTime;http/json;;
