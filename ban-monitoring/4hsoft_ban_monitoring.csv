@@ -1,29 +1,14 @@
 # service [domain];url;validate;service_caption;host_caption [service]
 Google-dns-test;8.8.8.8:53;tcp;;
 #test;http://www.sportinfon.org/banTest.js;http/json;;
-winclient_via_proxy;188.42.189.136:1080->81.198.186.69:2350;tcp;Winclient current;Winclient current
-winclient_next_via_proxy;188.42.189.138:1080->81.198.186.69:2350;tcp;Winclient next;Winclient next
-mobileclient_via_proxy;https://188.42.189.139:9444/serverTime;http/json;Mobileclient current;Mobileclient current
+winclient_via_proxy;188.42.189.138:1080->81.198.186.69:2350;tcp;Winclient current;Winclient current
+winclient_next_via_proxy;188.42.189.141:1080->81.198.186.69:2350;tcp;Winclient next;Winclient next
+mobileclient_via_proxy;https://188.42.189.140:9444/serverTime;http/json;Mobileclient current;Mobileclient current
+mobileclient_next_via_proxy;https://188.42.189.142:9444/serverTime;http/json;Mobileclient next;Mobileclient next
 #winclient_banned_via_proxy;188.42.189.137:1080->81.198.186.69:2350;tcp;winclient banned;winclient banned
 #mobileclient_banned_via_proxy;https://188.42.189.134:9444/serverTime;http/json;mobileclient banned;mobileclient banned
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-sportinfon_org;http://sportinfon.org/test_object.js;http;;
-sportinfon_org;https://m.sportinfon.org/favicons/manifest.json;http/json;;
-sportinfon_org;http://www.sportinfon.org/test_object.js;http;;
-sportinfon_org;https://register.sportinfon.org/reg/test_object.js;http;;
-sportinfon_org;https://reg.sportinfon.org/users/test_object.js;http;;
-sportinfon_org;https://account.sportinfon.org/MyAccount/test_object.js;http;;
-sportinfon_org;http://results.sportinfon.org/test_object.js;http;;
-sportinfon_org;http://stat.sportinfon.org/test_object.js;http;;
-sportinfon_org;https://bets.sportinfon.org/test_object.js;http;;
-sportinfon_org;https://live.sportinfon.org/test_object.js;http;;
-sportinfon_org;https://toto.sportinfon.org/test_object.js;http;;
-sportinfon_org;https://racing.sportinfon.org/test_object.js;http;;
-sportinfon_org;https://fivelevel.sportinfon.org/test_object.js;http;;
-sportinfon_org;https://virtualsports.sportinfon.org/test_object.js;http;;
-sportinfon_org;https://toto-info.sportinfon.org/test_object.js;http;;
-sportinfon_org;https://games.sportinfon.org/test_object.js;http;;
 sportinfon_xyz;http://sportinfon.xyz/test_object.js;http;;
 sportinfon_xyz;https://m.sportinfon.xyz/favicons/manifest.json;http/json;;
 sportinfon_xyz;http://www.sportinfon.xyz/test_object.js;http;;
@@ -40,6 +25,22 @@ sportinfon_xyz;https://fivelevel.sportinfon.xyz/test_object.js;http;;
 sportinfon_xyz;https://virtualsports.sportinfon.xyz/test_object.js;http;;
 sportinfon_xyz;https://toto-info.sportinfon.xyz/test_object.js;http;;
 sportinfon_xyz;https://games.sportinfon.xyz/test_object.js;http;;
+sportinfon_club;http://sportinfon.club/test_object.js;http;;
+sportinfon_club;https://m.sportinfon.club/favicons/manifest.json;http/json;;
+sportinfon_club;http://www.sportinfon.club/test_object.js;http;;
+sportinfon_club;https://register.sportinfon.club/reg/test_object.js;http;;
+sportinfon_club;https://reg.sportinfon.club/users/test_object.js;http;;
+sportinfon_club;https://account.sportinfon.club/MyAccount/test_object.js;http;;
+sportinfon_club;http://results.sportinfon.club/test_object.js;http;;
+sportinfon_club;http://stat.sportinfon.club/test_object.js;http;;
+sportinfon_club;https://bets.sportinfon.club/test_object.js;http;;
+sportinfon_club;https://live.sportinfon.club/test_object.js;http;;
+sportinfon_club;https://toto.sportinfon.club/test_object.js;http;;
+sportinfon_club;https://racing.sportinfon.club/test_object.js;http;;
+sportinfon_club;https://fivelevel.sportinfon.club/test_object.js;http;;
+sportinfon_club;https://virtualsports.sportinfon.club/test_object.js;http;;
+sportinfon_club;https://toto-info.sportinfon.club/test_object.js;http;;
+sportinfon_club;https://games.sportinfon.club/test_object.js;http;;
 winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
