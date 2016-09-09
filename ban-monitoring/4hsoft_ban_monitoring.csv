@@ -25,7 +25,6 @@ sportinfon_club;https://fivelevel.sportinfon.club/test_object.js;http;;
 sportinfon_club;https://virtualsports.sportinfon.club/test_object.js;http;;
 sportinfon_club;https://toto-info.sportinfon.club/test_object.js;http;;
 sportinfon_club;https://games.sportinfon.club/test_object.js;http;;
-winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 bkfonsport_club;http://bkfonsport.club/test_object.js;http;;
 bkfonsport_club;https://m.bkfonsport.club/favicons/manifest.json;http/json;;
 bkfonsport_club;http://www.bkfonsport.club/test_object.js;http;;
@@ -42,6 +41,7 @@ bkfonsport_club;https://fivelevel.bkfonsport.club/test_object.js;http;;
 bkfonsport_club;https://virtualsports.bkfonsport.club/test_object.js;http;;
 bkfonsport_club;https://toto-info.bkfonsport.club/test_object.js;http;;
 bkfonsport_club;https://games.bkfonsport.club/test_object.js;http;;
+winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
 kladr;http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F;http;KLADR;kladr@mskdc
