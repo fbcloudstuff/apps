@@ -96,7 +96,7 @@ ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/ipl
 jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
 jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
 access_page;ap-01.accessfonbet.xyz/test_object.js;http;access_page;
-landing_page;lp-01.betinfo.infoifo/test_object.js;http;landing_page;
+landing_page;lp-01.betinfo.info/test_object.js;http;landing_page;
 metrix_page;mp-02.smartdirectroute.biz/test_object.js;http;;metrix_page «int»
 metrix_page;mp-05.smartdirectroute.xyz/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-05.smartdirectroute.info/test_object.js;http;;metrix_page «adv»
