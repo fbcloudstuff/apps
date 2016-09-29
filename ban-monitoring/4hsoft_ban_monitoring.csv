@@ -90,10 +90,10 @@ fbls01;188.42.196.124/cipl/test_object.js;http;Домен для списков 
 ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
 jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
 jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
-access_page;ap-03.accessfonbet.xyz/test_object.js;http;access_page;
-landing_page;lp-03.betinfo.info/test_object.js;http;landing_page;
-metrix_page;mp-04.smartdirectroute.biz/test_object.js;http;;metrix_page «int»
-metrix_page;mp-03.smartdirectroute.com/test_object.js;http;;metrix_page «for all»
+access_page;ap-04.accessfonbet.xyz/test_object.js;http;access_page;
+landing_page;lp-04.betinfo.info/test_object.js;http;landing_page;
+metrix_page;mp-05.smartdirectroute.biz/test_object.js;http;;metrix_page «int»
+metrix_page;mp-04.smartdirectroute.com/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-01.smartdirectroute.net/test_object.js;http;;metrix_page «adv»
 devtest;https://js.dvtfb.com/serverTime;http/json;;devtest-js
 fbps01;https://185.82.210.231:9444/serverTime;http/json;;
