@@ -3,7 +3,7 @@ Google-dns-test;8.8.8.8:53;tcp;;
 #test;http://www.sportinfon.org/banTest.js;http/json;;
 winclient_via_proxy;188.42.189.138:1080->81.198.186.69:2350;tcp;Winclient current;Winclient current
 winclient_next_via_proxy;188.42.189.141:1080->81.198.186.69:2350;tcp;Winclient next;Winclient next
-mobileclient_via_proxy;https://188.42.189.142:9444/serverTime;http/json;Mobileclient current;Mobileclient current
+mobileclient_via_proxy;https://188.42.189.143:9444/serverTime;http/json;Mobileclient current;Mobileclient current
 #winclient_banned_via_proxy;188.42.189.137:1080->81.198.186.69:2350;tcp;winclient banned;winclient banned
 #mobileclient_banned_via_proxy;https://188.42.189.134:9444/serverTime;http/json;mobileclient banned;mobileclient banned
 5000-srv;81.198.186.9:5000;tcp;;5000a
