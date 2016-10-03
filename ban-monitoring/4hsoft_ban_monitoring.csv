@@ -42,26 +42,26 @@ fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;htt
 kladr;http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F;http;KLADR;kladr@mskdc
 line;https://line.fbwebdn.net/servertime;http/json;line.fb*dn;
 line;https://line.fbwebdn.com/servertime;http/json;line.fb*dn;
-fbla;https://fbla01-01.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-01
-fbla;https://fbla01-02.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-02
-fbla;https://fbla01-03.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-03
-fbla;https://fbla01-04.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-04
-fbla;https://fbla01-05.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-05
-fbla;https://fbla01-06.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-06
-fbla;https://fbla01-07.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-07
-fbla;https://fbla01-08.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-08
-fbla;https://fbla01-09.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-09
-fbla;https://fbla01-10.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-10
-fbla;https://fbla02-01.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-01
-fbla;https://fbla02-02.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-02
-fbla;https://fbla02-03.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-03
-fbla;https://fbla02-04.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-04
-fbla;https://fbla02-05.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-05
-fbla;https://fbla02-06.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-06
-fbla;https://fbla02-07.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-07
-fbla;https://fbla02-08.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-08
-fbla;https://fbla02-09.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-09
-fbla;https://fbla02-10.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-10
+fbla;https://fbla01-01.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-01
+fbla;https://fbla01-02.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-02
+fbla;https://fbla01-03.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-03
+fbla;https://fbla01-04.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-04
+fbla;https://fbla01-05.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-05
+fbla;https://fbla01-06.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-06
+fbla;https://fbla01-07.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-07
+fbla;https://fbla01-08.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-08
+fbla;https://fbla01-09.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-09
+fbla;https://fbla01-10.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla01-10
+fbla;https://fbla02-01.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-01
+fbla;https://fbla02-02.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-02
+fbla;https://fbla02-03.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-03
+fbla;https://fbla02-04.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-04
+fbla;https://fbla02-05.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-05
+fbla;https://fbla02-06.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-06
+fbla;https://fbla02-07.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-07
+fbla;https://fbla02-08.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-08
+fbla;https://fbla02-09.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-09
+fbla;https://fbla02-10.fbwebdn.net/servertime;http/json;LineAgent СЃРµСЂРІРµСЂ;fbla02-10
 fbca;188.42.196.86:8078;tcp;ClienAgent server;fbca01-01
 fbca;188.42.196.238:8078;tcp;ClienAgent server;fbca01-02
 fbca;188.42.196.239:8078;tcp;ClienAgent server;fbca01-03
@@ -72,29 +72,29 @@ fbca;188.42.196.243:8078;tcp;ClienAgent server;fbca01-07
 fbca;188.42.196.244:8078;tcp;ClienAgent server;fbca01-08
 fbca;188.42.196.245:8078;tcp;ClienAgent server;fbca01-09
 fbca;188.42.196.246:8078;tcp;ClienAgent server;fbca01-10
-android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/json/iplist;Домен для списков прокси;
-cipl_ios;c1d5c02650070df55f45.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios15
-cipl_ios;e2bf18fc048276077900.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios17
-cipl_ios;d4dbded416bd1af9b84b.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios18
-cipl_ios;fa45696947feba801d65.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios19
-fbls01;188.42.196.4/cipl/test_object.js;http;Домен для списков прокси;fbls_year_2016_andr
-fbls01;188.42.196.5/cipl/test_object.js;http;Домен для списков прокси;fbls_year_2016_ios
-fbls01;188.42.196.6/cipl/test_object.js;http;Домен для списков прокси;fbls_year_2016_wc
-fbls01;188.42.196.87/cipl/test_object.js;http;Домен для списков прокси;fbls_month_201607_andr
-fbls01;188.42.196.88/cipl/test_object.js;http;Домен для списков прокси;fbls_month_201607_ios
-fbls01;188.42.196.89/cipl/test_object.js;http;Домен для списков прокси;fbls_month_201607_wc
-fbls01;188.42.196.90/cipl/test_object.js;http;Домен для списков прокси;fbls_reserv
-fbls01;188.42.196.122/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_ios
-fbls01;188.42.196.123/cipl/test_object.js;http;Домен для списков прокси;fbls_day_201607_wc
-fbls01;188.42.196.124/cipl/test_object.js;http;Домен для списков прокси;andr ban 20160729
-ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
-jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
-jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
-access_page;ap-04.accessfonbet.xyz/test_object.js;http;access_page;
-landing_page;lp-04.betinfo.info/test_object.js;http;landing_page;
-metrix_page;mp-05.smartdirectroute.biz/test_object.js;http;;metrix_page «int»
-metrix_page;mp-04.smartdirectroute.com/test_object.js;http;;metrix_page «for all»
-metrix_page;mp-02.smartdirectroute.net/test_object.js;http;;metrix_page «adv»
+android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/json/iplist;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;
+cipl_ios;c1d5c02650070df55f45.xyz/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbios15
+cipl_ios;e2bf18fc048276077900.xyz/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbios17
+cipl_ios;d4dbded416bd1af9b84b.xyz/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbios18
+cipl_ios;fa45696947feba801d65.xyz/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbios19
+fbls01;188.42.196.4/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbls_year_2016_andr
+fbls01;188.42.196.5/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbls_year_2016_ios
+fbls01;188.42.196.6/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbls_year_2016_wc
+fbls01;188.42.196.87/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbls_month_201607_andr
+fbls01;188.42.196.88/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbls_month_201607_ios
+fbls01;188.42.196.89/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbls_month_201607_wc
+fbls01;188.42.196.90/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbls_reserv
+fbls01;188.42.196.122/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbls_day_201607_ios
+fbls01;188.42.196.123/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;fbls_day_201607_wc
+fbls01;188.42.196.124/cipl/test_object.js;http;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;andr ban 20160729
+ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;
+jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;
+jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Р”РѕРјРµРЅ РґР»СЏ СЃРїРёСЃРєРѕРІ РїСЂРѕРєСЃРё;
+access_page;ap-05.accessfonbet.xyz/test_object.js;http;access_page;
+landing_page;lp-05.betinfo.info/test_object.js;http;landing_page;
+metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page В«intВ»
+metrix_page;mp-05.smartdirectroute.com/test_object.js;http;;metrix_page В«for allВ»
+metrix_page;mp-02.smartdirectroute.net/test_object.js;http;;metrix_page В«advВ»
 devtest;https://js.dvtfb.com/serverTime;http/json;;devtest-js
 fbps01;https://185.82.210.231:9444/serverTime;http/json;;
 fbps01;https://185.82.210.232:9444/serverTime;http/json;;
