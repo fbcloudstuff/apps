@@ -73,7 +73,6 @@ fbca;188.42.196.244:8078;tcp;ClienAgent server;fbca01-08
 fbca;188.42.196.245:8078;tcp;ClienAgent server;fbca01-09
 fbca;188.42.196.246:8078;tcp;ClienAgent server;fbca01-10
 android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/json/iplist;Домен для списков прокси;
-cipl_ios;c1d5c02650070df55f45.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios15
 cipl_ios;e2bf18fc048276077900.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios17
 cipl_ios;d4dbded416bd1af9b84b.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios18
 cipl_ios;fa45696947feba801d65.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios19
