@@ -62,16 +62,16 @@ fbla;https://fbla02-07.fbwebdn.net/servertime;http/json;LineAgent сервер;f
 fbla;https://fbla02-08.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-08
 fbla;https://fbla02-09.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-09
 fbla;https://fbla02-10.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-10
-fbca;188.42.196.86:8078;tcp;ClienAgent server;fbca01-01
-fbca;188.42.196.238:8078;tcp;ClienAgent server;fbca01-02
-fbca;188.42.196.239:8078;tcp;ClienAgent server;fbca01-03
-fbca;188.42.196.240:8078;tcp;ClienAgent server;fbca01-04
-fbca;188.42.196.241:8078;tcp;ClienAgent server;fbca01-05
-fbca;188.42.196.242:8078;tcp;ClienAgent server;fbca01-06
-fbca;188.42.196.243:8078;tcp;ClienAgent server;fbca01-07
-fbca;188.42.196.244:8078;tcp;ClienAgent server;fbca01-08
-fbca;188.42.196.245:8078;tcp;ClienAgent server;fbca01-09
-fbca;188.42.196.246:8078;tcp;ClienAgent server;fbca01-10
+#fbca;188.42.196.86:8078;tcp;ClienAgent server;fbca01-01
+#fbca;188.42.196.238:8078;tcp;ClienAgent server;fbca01-02
+#fbca;188.42.196.239:8078;tcp;ClienAgent server;fbca01-03
+#fbca;188.42.196.240:8078;tcp;ClienAgent server;fbca01-04
+#fbca;188.42.196.241:8078;tcp;ClienAgent server;fbca01-05
+#fbca;188.42.196.242:8078;tcp;ClienAgent server;fbca01-06
+#fbca;188.42.196.243:8078;tcp;ClienAgent server;fbca01-07
+#fbca;188.42.196.244:8078;tcp;ClienAgent server;fbca01-08
+#fbca;188.42.196.245:8078;tcp;ClienAgent server;fbca01-09
+#fbca;188.42.196.246:8078;tcp;ClienAgent server;fbca01-10
 android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/json/iplist;Домен для списков прокси;
 cipl_ios;e2bf18fc048276077900.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios17
 cipl_ios;d4dbded416bd1af9b84b.xyz/cipl/test_object.js;http;Домен для списков прокси;fbios18
