@@ -7,20 +7,6 @@ landing_page;lp-02.infofromfon.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-03.smartdirectroute.pro/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-05.smartdirectroute.net/test_object.js;http;;metrix_page «adv»
-foninsport_org;http://foninsport.org/test_object.js;http;;
-foninsport_org;https://m.foninsport.org/favicons/manifest.json;http/json;;
-foninsport_org;http://www.foninsport.org/test_object.js;http;;
-foninsport_org;https://account.foninsport.org/MyAccount/test_object.js;http;;
-foninsport_org;http://results.foninsport.org/test_object.js;http;;
-foninsport_org;http://stat.foninsport.org/test_object.js;http;;
-foninsport_org;https://bets.foninsport.org/test_object.js;http;;
-foninsport_org;https://live.foninsport.org/test_object.js;http;;
-foninsport_org;https://toto.foninsport.org/test_object.js;http;;
-foninsport_org;https://racing.foninsport.org/test_object.js;http;;
-foninsport_org;https://fivelevel.foninsport.org/test_object.js;http;;
-foninsport_org;https://virtualsports.foninsport.org/test_object.js;http;;
-foninsport_org;https://toto-info.foninsport.org/test_object.js;http;;
-foninsport_org;https://games.foninsport.org/test_object.js;http;;
 foninbet_org;http://foninbet.org/test_object.js;http;;
 foninbet_org;https://m.foninbet.org/favicons/manifest.json;http/json;;
 foninbet_org;http://www.foninbet.org/test_object.js;http;;
@@ -35,6 +21,20 @@ foninbet_org;https://fivelevel.foninbet.org/test_object.js;http;;
 foninbet_org;https://virtualsports.foninbet.org/test_object.js;http;;
 foninbet_org;https://toto-info.foninbet.org/test_object.js;http;;
 foninbet_org;https://games.foninbet.org/test_object.js;http;;
+#;http://foninbet.org/test_object.js;http;;
+#;https://m.foninbet.org/favicons/manifest.json;http/json;;
+#;http://www.foninbet.org/test_object.js;http;;
+#;https://account.foninbet.org/MyAccount/test_object.js;http;;
+#;http://results.foninbet.org/test_object.js;http;;
+#;http://stat.foninbet.org/test_object.js;http;;
+#;https://bets.foninbet.org/test_object.js;http;;
+#;https://live.foninbet.org/test_object.js;http;;
+#;https://toto.foninbet.org/test_object.js;http;;
+#;https://racing.foninbet.org/test_object.js;http;;
+#;https://fivelevel.foninbet.org/test_object.js;http;;
+#;https://virtualsports.foninbet.org/test_object.js;http;;
+#;https://toto-info.foninbet.org/test_object.js;http;;
+#;https://games.foninbet.org/test_object.js;http;;
 winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
