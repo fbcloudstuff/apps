@@ -41,6 +41,20 @@ betinfon_org;https://fivelevel.betinfon.org/test_object.js;http;;
 betinfon_org;https://virtualsports.betinfon.org/test_object.js;http;;
 betinfon_org;https://toto-info.betinfon.org/test_object.js;http;;
 betinfon_org;https://games.betinfon.org/test_object.js;http;;
+fonbet5_com;http://fonbet5.com/test_object.js;http;;
+fonbet5_com;https://m.fonbet5.com/favicons/manifest.json;http/json;;
+fonbet5_com;http://www.fonbet5.com/test_object.js;http;;
+fonbet5_com;https://account.fonbet5.com/MyAccount/test_object.js;http;;
+fonbet5_com;http://results.fonbet5.com/test_object.js;http;;
+fonbet5_com;http://stat.fonbet5.com/test_object.js;http;;
+fonbet5_com;https://bets.fonbet5.com/test_object.js;http;;
+fonbet5_com;https://live.fonbet5.com/test_object.js;http;;
+fonbet5_com;https://toto.fonbet5.com/test_object.js;http;;
+fonbet5_com;https://racing.fonbet5.com/test_object.js;http;;
+fonbet5_com;https://fivelevel.fonbet5.com/test_object.js;http;;
+fonbet5_com;https://virtualsports.fonbet5.com/test_object.js;http;;
+fonbet5_com;https://toto-info.fonbet5.com/test_object.js;http;;
+fonbet5_com;https://games.fonbet5.com/test_object.js;http;;
 #fbla;https://fbla01-01.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-01
 #fbla;https://fbla01-02.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-02
 #fbla;https://fbla01-03.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-03
@@ -98,20 +112,6 @@ fbps31 ;https://95.211.203.117:9444/serverTime;http/json;;
 fbps32;https://91.109.22.133:9444/serverTime;http/json;;
 fbps33;https://144.76.160.227:9444/serverTime;http/json;;
 fbps33;https://144.76.160.228:9444/serverTime;http/json;;
-#fonbet4_com;http://fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://m.fonbet4.com/favicons/manifest.json;http/json;;
-#fonbet4_com;http://www.fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://account.fonbet4.com/MyAccount/test_object.js;http;;
-#fonbet4_com;http://results.fonbet4.com/test_object.js;http;;
-#fonbet4_com;http://stat.fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://bets.fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://live.fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://toto.fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://racing.fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://fivelevel.fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://virtualsports.fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://toto-info.fonbet4.com/test_object.js;http;;
-#fonbet4_com;https://games.fonbet4.com/test_object.js;http;;
 xen_app;https://xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_lv
 xen_app;https://grs-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_grs
 xen_app;https://dvt-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_dvt
