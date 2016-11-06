@@ -2,31 +2,17 @@
 Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-04.accessfonbet.biz/test_object.js;http;;access_page
-landing_page;lp-03.foninsport.info/test_object.js;http;;landing_page
+access_page;ap-05.accessfonbet.biz/test_object.js;http;;access_page
+landing_page;lp-04.foninsport.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-02.directsmartroute.com/test_object.js;http;;metrix_page «for all»
-metrix_page;mp-05.directsmartroute.co/test_object.js;http;;metrix_page «adv»
+metrix_page;mp-01.directsmartroute.org/test_object.js;http;;metrix_page «adv»
 kladr;http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F;http;KLADR;kladr@mskdc
 winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
 line;https://line.fbwebdn.net/servertime;http/json;line.fb*dn;
 line;https://line.fbwebdn.com/servertime;http/json;line.fb*dn;
-betinfon_net;http://betinfon.net/test_object.js;http;;
-betinfon_net;https://m.betinfon.net/favicons/manifest.json;http/json;;
-betinfon_net;http://www.betinfon.net/test_object.js;http;;
-betinfon_net;https://account.betinfon.net/MyAccount/test_object.js;http;;
-betinfon_net;http://results.betinfon.net/test_object.js;http;;
-betinfon_net;http://stat.betinfon.net/test_object.js;http;;
-betinfon_net;https://bets.betinfon.net/test_object.js;http;;
-betinfon_net;https://live.betinfon.net/test_object.js;http;;
-betinfon_net;https://toto.betinfon.net/test_object.js;http;;
-betinfon_net;https://racing.betinfon.net/test_object.js;http;;
-betinfon_net;https://fivelevel.betinfon.net/test_object.js;http;;
-betinfon_net;https://virtualsports.betinfon.net/test_object.js;http;;
-betinfon_net;https://toto-info.betinfon.net/test_object.js;http;;
-betinfon_net;https://games.betinfon.net/test_object.js;http;;
 betinfon_org;http://betinfon.org/test_object.js;http;;
 betinfon_org;https://m.betinfon.org/favicons/manifest.json;http/json;;
 betinfon_org;http://www.betinfon.org/test_object.js;http;;
@@ -41,6 +27,20 @@ betinfon_org;https://fivelevel.betinfon.org/test_object.js;http;;
 betinfon_org;https://virtualsports.betinfon.org/test_object.js;http;;
 betinfon_org;https://toto-info.betinfon.org/test_object.js;http;;
 betinfon_org;https://games.betinfon.org/test_object.js;http;;
+betinfon_club;http://betinfon.club/test_object.js;http;;
+betinfon_club;https://m.betinfon.club/favicons/manifest.json;http/json;;
+betinfon_club;http://www.betinfon.club/test_object.js;http;;
+betinfon_club;https://account.betinfon.club/MyAccount/test_object.js;http;;
+betinfon_club;http://results.betinfon.club/test_object.js;http;;
+betinfon_club;http://stat.betinfon.club/test_object.js;http;;
+betinfon_club;https://bets.betinfon.club/test_object.js;http;;
+betinfon_club;https://live.betinfon.club/test_object.js;http;;
+betinfon_club;https://toto.betinfon.club/test_object.js;http;;
+betinfon_club;https://racing.betinfon.club/test_object.js;http;;
+betinfon_club;https://fivelevel.betinfon.club/test_object.js;http;;
+betinfon_club;https://virtualsports.betinfon.club/test_object.js;http;;
+betinfon_club;https://toto-info.betinfon.club/test_object.js;http;;
+betinfon_club;https://games.betinfon.club/test_object.js;http;;
 fonbet5_com;http://fonbet5.com/test_object.js;http;;
 fonbet5_com;https://m.fonbet5.com/favicons/manifest.json;http/json;;
 fonbet5_com;http://www.fonbet5.com/test_object.js;http;;
