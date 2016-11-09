@@ -8,7 +8,6 @@ metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-02.directsmartroute.com/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-01.directsmartroute.org/test_object.js;http;;metrix_page «adv»
 kladr;http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F;http;KLADR;kladr@mskdc
-winclient_config;http://upd.fbwebdn.net/winclient/test_object.js;http;;upd-[].fbwebdn.net
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
 line;https://line.fbwebdn.net/servertime;http/json;line.fb*dn;
