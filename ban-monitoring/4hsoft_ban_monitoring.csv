@@ -7,7 +7,10 @@ landing_page;lp-04.foninsport.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-02.directsmartroute.com/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-01.directsmartroute.org/test_object.js;http;;metrix_page «adv»
-fbls;xxx.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;Домен для списков прокси;fbls_day_andr
+#fbls;xxx.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;Домен для списков прокси;fbls_day_andr
+fbls;9c5.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;;fbls_day_mob_201611
+fbls;9c5.c2ef25.db534bb0cc17aa05bc.xyz/cipl/test_object.js;http;;fbls_day_mob_201612
+fbls;9c5.c2ef25.e176cc6cb613436b37.xyz/cipl/test_object.js;http;;fbls_day_mob_201701
 kladr;http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F;http;KLADR;kladr@mskdc
 fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
 fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
