@@ -2,11 +2,11 @@
 Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-04.accessfonbet.online/test_object.js;http;;access_page
-landing_page;lp-02.infoinsport.info/test_object.js;http;;landing_page
+access_page;ap-05.accessfonbet.online/test_object.js;http;;access_page
+landing_page;lp-03.infoinsport.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-01.directsmartroute.xyz/test_object.js;http;;metrix_page «for all»
-metrix_page;mp-04.directsmartroute.org/test_object.js;http;;metrix_page «adv»
+metrix_page;mp-05.directsmartroute.org/test_object.js;http;;metrix_page «adv»
 #fbls;xxx.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;Домен для списков прокси;fbls_day_andr
 fbls;9c5.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;;fbls_day_mob_201611
 fbls;9c5.c2ef25.db534bb0cc17aa05bc.xyz/cipl/test_object.js;http;;fbls_day_mob_201612
