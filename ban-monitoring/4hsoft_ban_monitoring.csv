@@ -2,11 +2,11 @@
 Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-01.accessfonbets.co/test_object.js;http;;access_page
-landing_page;lp-04.infoinsport.info/test_object.js;http;;landing_page
+access_page;ap-02.accessfonbets.co/test_object.js;http;;access_page
+landing_page;lp-05.infoinsport.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-03.directsmartroute.xyz/test_object.js;http;;metrix_page «for all»
-metrix_page;mp-01.directsmartroute.net/test_object.js;http;;metrix_page «adv»
+metrix_page;mp-02.directsmartroute.net/test_object.js;http;;metrix_page «adv»
 #fbls;xxx.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;Домен для списков прокси;fbls_day_andr
 fbls;9c5.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;;fbls_day_mob_201611
 fbls;9c5.c2ef25.db534bb0cc17aa05bc.xyz/cipl/test_object.js;http;;fbls_day_mob_201612
@@ -18,20 +18,6 @@ c59671d45c62eec556f2_xyz;upd-random.c59671d45c62eec556f2.xyz/winclient/test_obje
 #fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
 #line;https://line.fbwebdn.net/servertime;http/json;line.fb*dn;
 #line;https://line.fbwebdn.com/servertime;http/json;line.fb*dn;
-bkfonbetsport_com;http://bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://m.bkfonbetsport.com/favicons/manifest.json;http/json;;
-bkfonbetsport_com;http://www.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://account.bkfonbetsport.com/MyAccount/test_object.js;http;;
-bkfonbetsport_com;http://results.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;http://stat.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://bets.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://live.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://toto.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://racing.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://fivelevel.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://virtualsports.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://toto-info.bkfonbetsport.com/test_object.js;http;;
-bkfonbetsport_com;https://games.bkfonbetsport.com/test_object.js;http;;
 bkfonbetsports_com;http://bkfonbetsports.com/test_object.js;http;;
 bkfonbetsports_com;https://m.bkfonbetsports.com/favicons/manifest.json;http/json;;
 bkfonbetsports_com;http://www.bkfonbetsports.com/test_object.js;http;;
@@ -46,6 +32,20 @@ bkfonbetsports_com;https://fivelevel.bkfonbetsports.com/test_object.js;http;;
 bkfonbetsports_com;https://virtualsports.bkfonbetsports.com/test_object.js;http;;
 bkfonbetsports_com;https://toto-info.bkfonbetsports.com/test_object.js;http;;
 bkfonbetsports_com;https://games.bkfonbetsports.com/test_object.js;http;;
+bkfonbetsports_org;http://bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://m.bkfonbetsports.org/favicons/manifest.json;http/json;;
+bkfonbetsports_org;http://www.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://account.bkfonbetsports.org/MyAccount/test_object.js;http;;
+bkfonbetsports_org;http://results.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;http://stat.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://bets.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://live.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://toto.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://racing.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://fivelevel.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://virtualsports.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://toto-info.bkfonbetsports.org/test_object.js;http;;
+bkfonbetsports_org;https://games.bkfonbetsports.org/test_object.js;http;;
 fonbet6_com;http://fonbet6.com/test_object.js;http;;
 fonbet6_com;https://m.fonbet6.com/favicons/manifest.json;http/json;;
 fonbet6_com;http://www.fonbet6.com/test_object.js;http;;
