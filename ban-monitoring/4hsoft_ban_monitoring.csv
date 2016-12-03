@@ -2,10 +2,10 @@
 Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-02.accessfonbets.co/test_object.js;http;;access_page
-landing_page;lp-05.infoinsport.info/test_object.js;http;;landing_page
+access_page;ap-03.accessfonbets.co/test_object.js;http;;access_page
+landing_page;lp-01.fonsportinfo.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
-metrix_page;mp-03.directsmartroute.xyz/test_object.js;http;;metrix_page «for all»
+metrix_page;mp-04.directsmartroute.xyz/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-02.directsmartroute.net/test_object.js;http;;metrix_page «adv»
 #fbls;xxx.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;Домен для списков прокси;fbls_day_andr
 fbls;9c5.c2ef25.db534bb0cc17aa05bc.xyz/cipl/test_object.js;http;;fbls_day_mob_201612
@@ -17,20 +17,6 @@ c59671d45c62eec556f2_xyz;upd-random.c59671d45c62eec556f2.xyz/winclient/test_obje
 #fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
 #line;https://line.fbwebdn.net/servertime;http/json;line.fb*dn;
 #line;https://line.fbwebdn.com/servertime;http/json;line.fb*dn;
-bkfonbetsports_com;http://bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://m.bkfonbetsports.com/favicons/manifest.json;http/json;;
-bkfonbetsports_com;http://www.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://account.bkfonbetsports.com/MyAccount/test_object.js;http;;
-bkfonbetsports_com;http://results.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;http://stat.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://bets.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://live.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://toto.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://racing.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://fivelevel.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://virtualsports.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://toto-info.bkfonbetsports.com/test_object.js;http;;
-bkfonbetsports_com;https://games.bkfonbetsports.com/test_object.js;http;;
 bkfonbetsports_org;http://bkfonbetsports.org/test_object.js;http;;
 bkfonbetsports_org;https://m.bkfonbetsports.org/favicons/manifest.json;http/json;;
 bkfonbetsports_org;http://www.bkfonbetsports.org/test_object.js;http;;
@@ -45,6 +31,20 @@ bkfonbetsports_org;https://fivelevel.bkfonbetsports.org/test_object.js;http;;
 bkfonbetsports_org;https://virtualsports.bkfonbetsports.org/test_object.js;http;;
 bkfonbetsports_org;https://toto-info.bkfonbetsports.org/test_object.js;http;;
 bkfonbetsports_org;https://games.bkfonbetsports.org/test_object.js;http;;
+bkfonsport_online;http://bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://m.bkfonsport.online/favicons/manifest.json;http/json;;
+bkfonsport_online;http://www.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://account.bkfonsport.online/MyAccount/test_object.js;http;;
+bkfonsport_online;http://results.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;http://stat.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://bets.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://live.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://toto.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://racing.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://fivelevel.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://virtualsports.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://toto-info.bkfonsport.online/test_object.js;http;;
+bkfonsport_online;https://games.bkfonsport.online/test_object.js;http;;
 fonbet6_com;http://fonbet6.com/test_object.js;http;;
 fonbet6_com;https://m.fonbet6.com/favicons/manifest.json;http/json;;
 fonbet6_com;http://www.fonbet6.com/test_object.js;http;;
