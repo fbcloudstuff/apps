@@ -4,8 +4,8 @@ Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.109:5000;tcp;;5000b
 access_page;ap-01.accessfonbets.com/test_object.js;http;;access_page
 landing_page;lp-04.fonsportinfo.info/test_object.js;http;;landing_page
-metrix_page;mp-01.directsmartroute.info/test_object.js;http;;metrix_page «int»
-metrix_page;mp-06.directsmartroute.xyz/test_object.js;http;;metrix_page «for all»
+metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
+metrix_page;mp-01.directsmartroute.info/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-05.directsmartroute.net/test_object.js;http;;metrix_page «adv»
 #fbls;xxx.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;Домен для списков прокси;fbls_day_andr
 fbls;9c5.c2ef25.db534bb0cc17aa05bc.xyz/cipl/test_object.js;http;;fbls_day_mob_201612
@@ -17,48 +17,48 @@ c59671d45c62eec556f2_xyz;upd-random.c59671d45c62eec556f2.xyz/winclient/test_obje
 #fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
 #line;https://line.fbwebdn.net/servertime;http/json;line.fb*dn;
 #line;https://line.fbwebdn.com/servertime;http/json;line.fb*dn;
-bkfongame_com;http://bkfongame.com/test_object.js;http;;
-bkfongame_com;https://m.bkfongame.com/favicons/manifest.json;http/json;;
-bkfongame_com;http://www.bkfongame.com/test_object.js;http;;
-bkfongame_com;https://account.bkfongame.com/MyAccount/test_object.js;http;;
-bkfongame_com;http://results.bkfongame.com/test_object.js;http;;
-bkfongame_com;http://stat.bkfongame.com/test_object.js;http;;
-bkfongame_com;https://bets.bkfongame.com/test_object.js;http;;
-bkfongame_com;https://live.bkfongame.com/test_object.js;http;;
-bkfongame_com;https://toto.bkfongame.com/test_object.js;http;;
-bkfongame_com;https://racing.bkfongame.com/test_object.js;http;;
-bkfongame_com;https://fivelevel.bkfongame.com/test_object.js;http;;
-bkfongame_com;https://virtualsports.bkfongame.com/test_object.js;http;;
-bkfongame_com;https://toto-info.bkfongame.com/test_object.js;http;;
-bkfongame_com;https://games.bkfongame.com/test_object.js;http;;
-fonsportgame_com;http://fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://m.fonsportgame.com/favicons/manifest.json;http/json;;
-fonsportgame_com;http://www.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://account.fonsportgame.com/MyAccount/test_object.js;http;;
-fonsportgame_com;http://results.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;http://stat.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://bets.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://live.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://toto.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://racing.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://fivelevel.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://virtualsports.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://toto-info.fonsportgame.com/test_object.js;http;;
-fonsportgame_com;https://games.fonsportgame.com/test_object.js;http;;
-fonbet8_com;http://fonbet8.com/test_object.js;http;;
-fonbet8_com;https://m.fonbet8.com/favicons/manifest.json;http/json;;
-fonbet8_com;http://www.fonbet8.com/test_object.js;http;;
-fonbet8_com;https://account.fonbet8.com/MyAccount/test_object.js;http;;
-fonbet8_com;http://results.fonbet8.com/test_object.js;http;;
-fonbet8_com;http://stat.fonbet8.com/test_object.js;http;;
-fonbet8_com;https://bets.fonbet8.com/test_object.js;http;;
-fonbet8_com;https://live.fonbet8.com/test_object.js;http;;
-fonbet8_com;https://toto.fonbet8.com/test_object.js;http;;
-fonbet8_com;https://racing.fonbet8.com/test_object.js;http;;
-fonbet8_com;https://fivelevel.fonbet8.com/test_object.js;http;;
-fonbet8_com;https://virtualsports.fonbet8.com/test_object.js;http;;
-fonbet8_com;https://toto-info.fonbet8.com/test_object.js;http;;
-fonbet8_com;https://games.fonbet8.com/test_object.js;http;;
+sport-in-fon_com;http://sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://m.sport-in-fon.com/favicons/manifest.json;http/json;;
+sport-in-fon_com;http://www.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://account.sport-in-fon.com/MyAccount/test_object.js;http;;
+sport-in-fon_com;http://results.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;http://stat.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://bets.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://live.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://toto.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://racing.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://fivelevel.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://virtualsports.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://toto-info.sport-in-fon.com/test_object.js;http;;
+sport-in-fon_com;https://games.sport-in-fon.com/test_object.js;http;;
+gameinfon_com;http://gameinfon.com/test_object.js;http;;
+gameinfon_com;https://m.gameinfon.com/favicons/manifest.json;http/json;;
+gameinfon_com;http://www.gameinfon.com/test_object.js;http;;
+gameinfon_com;https://account.gameinfon.com/MyAccount/test_object.js;http;;
+gameinfon_com;http://results.gameinfon.com/test_object.js;http;;
+gameinfon_com;http://stat.gameinfon.com/test_object.js;http;;
+gameinfon_com;https://bets.gameinfon.com/test_object.js;http;;
+gameinfon_com;https://live.gameinfon.com/test_object.js;http;;
+gameinfon_com;https://toto.gameinfon.com/test_object.js;http;;
+gameinfon_com;https://racing.gameinfon.com/test_object.js;http;;
+gameinfon_com;https://fivelevel.gameinfon.com/test_object.js;http;;
+gameinfon_com;https://virtualsports.gameinfon.com/test_object.js;http;;
+gameinfon_com;https://toto-info.gameinfon.com/test_object.js;http;;
+gameinfon_com;https://games.gameinfon.com/test_object.js;http;;
+fonbet9_com;http://fonbet8.com/test_object.js;http;;
+fonbet9_com;https://m.fonbet9.com/favicons/manifest.json;http/json;;
+fonbet9_com;http://www.fonbet9.com/test_object.js;http;;
+fonbet9_com;https://account.fonbet9.com/MyAccount/test_object.js;http;;
+fonbet9_com;http://results.fonbet9.com/test_object.js;http;;
+fonbet9_com;http://stat.fonbet9.com/test_object.js;http;;
+fonbet9_com;https://bets.fonbet9.com/test_object.js;http;;
+fonbet9_com;https://live.fonbet9.com/test_object.js;http;;
+fonbet9_com;https://toto.fonbet9.com/test_object.js;http;;
+fonbet9_com;https://racing.fonbet9.com/test_object.js;http;;
+fonbet9_com;https://fivelevel.fonbet9.com/test_object.js;http;;
+fonbet9_com;https://virtualsports.fonbet9.com/test_object.js;http;;
+fonbet9_com;https://toto-info.fonbet9.com/test_object.js;http;;
+fonbet9_com;https://games.fonbet9.com/test_object.js;http;;
 #fbla;https://fbla01-01.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-01
 #fbla;https://fbla01-02.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-02
 #fbla;https://fbla01-03.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-03
