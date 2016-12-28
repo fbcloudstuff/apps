@@ -8,6 +8,12 @@ landing_page;lp-03.infofromfonsport.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-05.directsmartroute.info/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-03.directroute.info/test_object.js;http;;metrix_page «adv»
+gameinfon_online;http://www.gameinfon.online/test_object.js;http;;
+fongametime_online;http://www.fongametime.online/test_object.js;http;;
+fonbet12_com;http://www.fonbet12.com/test_object.js;http;;
+fonbet12_com;https://racing.fonbet12.com/test_object.js;http;;
+fonbet12_com;https://games.fonbet12.com/test_object.js;http;;
+#fonbet10_vip;http://www.fonbet10.vip/test_object.js;http;;
 #fbls;xxx.c2ef25.e3b227af32e4d25d50.xyz/cipl/test_object.js;http;Домен для списков прокси;fbls_day_mob
 fbls;9c5.c2ef25.db534bb0cc17aa05bc.xyz/cipl/test_object.js;http;;fbls_day_mob_201612
 fbls;9c5.c2ef25.e176cc6cb613436b37.xyz/cipl/test_object.js;http;;fbls_day_mob_201701
@@ -18,11 +24,6 @@ c59671d45c62eec556f2_xyz;upd-random.c59671d45c62eec556f2.xyz/winclient/test_obje
 #fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
 #line;https://line.fbwebdn.net/servertime;http/json;line.fb*dn;
 #line;https://line.fbwebdn.com/servertime;http/json;line.fb*dn;
-gameinfon_online;http://www.gameinfon.online/test_object.js;http;;
-fongametime_online;http://www.fongametime.online/test_object.js;http;;
-fonbet12_com;http://www.fonbet12.com/test_object.js;http;;
-fonbet12_com;https://racing.fonbet12.com/test_object.js;http;;
-fonbet12_com;https://games.fonbet12.com/test_object.js;http;;
 #fbla;https://fbla01-01.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-01
 #fbla;https://fbla01-02.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-02
 #fbla;https://fbla01-03.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-03
@@ -73,7 +74,6 @@ xen_app;https://dvt-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_ap
 xen_app;https://cor-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_cor
 xen_app;https://bkfon-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_bkfon
 xen_app;https://cuo-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_cuo
-#fonbet10_vip;http://www.fonbet10.vip/test_object.js;http;;
 #unban_check;173.0.146.167/cipl/test_object.js;http;;173.0.146.167
 #unban_check;173.0.146.168/cipl/test_object.js;http;;173.0.146.168
 #unban_check;173.0.146.169/cipl/test_object.js;http;;173.0.146.169
