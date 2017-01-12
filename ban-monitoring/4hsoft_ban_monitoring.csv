@@ -6,7 +6,7 @@ access_page;ap-04.accessfonbets.net/test_object.js;http;;access_page
 landing_page;lp-02.fromfon.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-03.directroute.xyz/test_object.js;http;;metrix_page «for all»
-metrix_page;mp-01.directroute.co/test_object.js;http;;metrix_page «adv»
+metrix_page;mp-02.directroute.co/test_object.js;http;;metrix_page «adv»
 gameinfon_xyz;https://m.gameinfon.xyz/favicons/manifest.json;http/json;;
 gameinfon_xyz;http://www.gameinfon.xyz/test_object.js;http;;
 gameinfon_xyz;https://racing.gameinfon.xyz/test_object.js;http;;
