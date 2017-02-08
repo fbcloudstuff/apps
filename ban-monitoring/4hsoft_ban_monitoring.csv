@@ -2,11 +2,11 @@
 #Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-02.accessfonbets.xyz/test_object.js;http;;access_page
-landing_page;lp-01.fonsport-info.info/test_object.js;http;;landing_page
+access_page;ap-03.accessfonbets.xyz/test_object.js;http;;access_page
+landing_page;lp-02.fonsport-info.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
-metrix_page;mp-05.smartdirectpath.xyz/test_object.js;http;;metrix_page «for all»
-metrix_page;mp-04.smartdirectpath.co/test_object.js;http;;metrix_page «adv»
+metrix_page;mp-01.smartdirectpath.club/test_object.js;http;;metrix_page «for all»
+metrix_page;mp-05.smartdirectpath.co/test_object.js;http;;metrix_page «adv»
 fonsport-bet_com;https://m.fonsport-bet.com/favicons/manifest.json;http/json;;
 fonsport-bet_com;http://www.fonsport-bet.com/test_object.js;http;;
 fonsport-bet_com;https://racing.fonsport-bet.com/test_object.js;http;;
@@ -92,25 +92,38 @@ xen_app;https://dvt-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_ap
 xen_app;https://cor-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_cor
 xen_app;https://bkfon-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_bkfon
 xen_app;https://cuo-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_cuo
-unban_check;188.42.189.128/servertime;http/json;;188.42.189.128
-unban_check;188.42.189.129/servertime;http/json;;188.42.189.129
-unban_check;188.42.189.130/servertime;http/json;;188.42.189.130
-unban_check;188.42.189.131/servertime;http/json;;188.42.189.131
-unban_check;188.42.189.132/servertime;http/json;;188.42.189.132
-unban_check;188.42.189.133/servertime;http/json;;188.42.189.133
-unban_check;188.42.189.134/servertime;http/json;;188.42.189.134
-unban_check;188.42.189.135/servertime;http/json;;188.42.189.135
-unban_check;188.42.189.136/servertime;http/json;;188.42.189.136
-unban_check;188.42.189.137/servertime;http/json;;188.42.189.137
-unban_check;188.42.189.138/servertime;http/json;;188.42.189.138
-unban_check;188.42.189.139/servertime;http/json;;188.42.189.139
-unban_check;188.42.189.140/servertime;http/json;;188.42.189.140
-unban_check;188.42.189.141/servertime;http/json;;188.42.189.141
-unban_check;188.42.189.142/servertime;http/json;;188.42.189.142
-unban_check;188.42.189.143/servertime;http/json;;188.42.189.143
-unban_check;188.42.189.144/servertime;http/json;;188.42.189.144
-unban_check;188.42.189.145/servertime;http/json;;188.42.189.145
-unban_check;188.42.196.0/servertime;http/json;;188.42.196.0
-unban_check;188.42.196.1/servertime;http/json;;188.42.196.1
-unban_check;188.42.196.116/servertime;http/json;;188.42.196.116
-unban_check;188.42.196.117/servertime;http/json;;188.42.196.117
+unban_check;185.82.210.228/servertime;http/json;;185.82.210.228
+unban_check;185.82.210.229/servertime;http/json;;185.82.210.229
+unban_check;185.82.210.230/servertime;http/json;;185.82.210.230
+unban_check;185.82.210.231/servertime;http/json;;185.82.210.231
+unban_check;185.82.210.232/servertime;http/json;;185.82.210.232
+unban_check;185.82.210.233/servertime;http/json;;185.82.210.233
+unban_check;185.82.210.234/servertime;http/json;;185.82.210.234
+unban_check;185.82.210.20/servertime;http/json;;185.82.210.20
+unban_check;185.82.210.21/servertime;http/json;;185.82.210.21
+unban_check;185.82.210.22/servertime;http/json;;185.82.210.22
+unban_check;185.82.210.235/servertime;http/json;;185.82.210.235
+unban_check;185.82.210.236/servertime;http/json;;185.82.210.236
+unban_check;185.82.210.237/servertime;http/json;;185.82.210.237
+unban_check;185.82.210.44/servertime;http/json;;185.82.210.44
+unban_check;185.82.210.238/servertime;http/json;;185.82.210.238
+unban_check;185.82.210.0/servertime;http/json;;185.82.210.0
+unban_check;185.82.210.1/servertime;http/json;;185.82.210.1
+unban_check;185.82.210.2/servertime;http/json;;185.82.210.2
+unban_check;185.82.210.3/servertime;http/json;;185.82.210.3
+unban_check;185.82.210.8/servertime;http/json;;185.82.210.8
+unban_check;185.82.210.80/servertime;http/json;;185.82.210.80
+unban_check;185.82.210.81/servertime;http/json;;185.82.210.81
+unban_check;185.82.210.82/servertime;http/json;;185.82.210.82
+unban_check;185.82.210.83/servertime;http/json;;185.82.210.83
+unban_check;185.82.210.122/servertime;http/json;;185.82.210.122
+unban_check;185.82.210.195/servertime;http/json;;185.82.210.195
+unban_check;185.82.210.196/servertime;http/json;;185.82.210.196
+unban_check;185.82.210.197/servertime;http/json;;185.82.210.197
+unban_check;185.82.210.198/servertime;http/json;;185.82.210.198
+unban_check;185.82.210.221/servertime;http/json;;185.82.210.221
+unban_check;185.82.210.222/servertime;http/json;;185.82.210.222
+unban_check;185.82.210.223/servertime;http/json;;185.82.210.223
+unban_check;185.82.210.224/servertime;http/json;;185.82.210.224
+unban_check;185.82.210.17/servertime;http/json;;185.82.210.17
+unban_check;185.82.210.18/servertime;http/json;;185.82.210.18
