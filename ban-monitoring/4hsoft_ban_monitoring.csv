@@ -76,7 +76,7 @@ android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/jso
 ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
 jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
 jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
-devtest;https://js.dvtfb.com/serverTime;http/json;;devtest-js
+#devtest;https://js.dvtfb.com/serverTime;http/json;;devtest-js
 fbps01;https://185.82.210.231:9444/serverTime;http/json;;
 fbps01;https://185.82.210.232:9444/serverTime;http/json;;
 fbps01;https://188.42.137.188:9444/serverTime;http/json;;
