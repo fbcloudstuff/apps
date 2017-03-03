@@ -37,45 +37,10 @@ fbls;z9c9c5.0d1cc8028012916563.xyz/cipl/test_object.js;http;;fbls_day_mob_201705
 kladr;http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F;http;KLADR;kladr@mskdc
 a660d996de04720d07d8_xyz;upd-random.a660d996de04720d07d8.xyz/winclient/test_object.js;http;;winclient_conf+upd
 dd9c8d009cde58905f2d_xyz;upd-random.dd9c8d009cde58905f2d.xyz/winclient/test_object.js;http;;winclient_conf+upd
-#fbappdn_account;https://a.fbappdn.com/MyAccount/img/ru.png;http;Account;
-#fbwebdn_registration;https://reg.fbwebdn.com/users/assets/images/favicon.ico;http;Registration;
-#line;https://line.fbwebdn.net/servertime;http/json;line.fb*dn;
-#line;https://line.fbwebdn.com/servertime;http/json;line.fb*dn;
-#fbla;https://fbla01-01.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-01
-#fbla;https://fbla01-02.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-02
-#fbla;https://fbla01-03.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-03
-#fbla;https://fbla01-04.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-04
-#fbla;https://fbla01-05.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-05
-#fbla;https://fbla01-06.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-06
-#fbla;https://fbla01-07.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-07
-#fbla;https://fbla01-08.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-08
-#fbla;https://fbla01-09.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-09
-#fbla;https://fbla01-10.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla01-10
-#fbla;https://fbla02-01.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-01
-#fbla;https://fbla02-02.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-02
-#fbla;https://fbla02-03.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-03
-#fbla;https://fbla02-04.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-04
-#fbla;https://fbla02-05.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-05
-#fbla;https://fbla02-06.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-06
-#fbla;https://fbla02-07.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-07
-#fbla;https://fbla02-08.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-08
-#fbla;https://fbla02-09.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-09
-#fbla;https://fbla02-10.fbwebdn.net/servertime;http/json;LineAgent сервер;fbla02-10
-#fbca;188.42.196.86:8078;tcp;ClienAgent server;fbca01-01
-#fbca;188.42.196.238:8078;tcp;ClienAgent server;fbca01-02
-#fbca;188.42.196.239:8078;tcp;ClienAgent server;fbca01-03
-#fbca;188.42.196.240:8078;tcp;ClienAgent server;fbca01-04
-#fbca;188.42.196.241:8078;tcp;ClienAgent server;fbca01-05
-#fbca;188.42.196.242:8078;tcp;ClienAgent server;fbca01-06
-#fbca;188.42.196.243:8078;tcp;ClienAgent server;fbca01-07
-#fbca;188.42.196.244:8078;tcp;ClienAgent server;fbca01-08
-#fbca;188.42.196.245:8078;tcp;ClienAgent server;fbca01-09
-#fbca;188.42.196.246:8078;tcp;ClienAgent server;fbca01-10
-android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/json/iplist;Домен для списков прокси;
-ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;Домен для списков прокси;
-jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
-jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;Домен для списков прокси;
-#devtest;https://js.dvtfb.com/serverTime;http/json;;devtest-js
+android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/json/iplist;android_client_proxy_list;
+ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;ios_client_proxy_list;
+jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;jme_client_proxy_list;
+jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;jme_client_proxy_list;
 fbps01;https://185.82.210.231:9444/serverTime;http/json;;
 fbps01;https://185.82.210.232:9444/serverTime;http/json;;
 fbps01;https://188.42.137.188:9444/serverTime;http/json;;
