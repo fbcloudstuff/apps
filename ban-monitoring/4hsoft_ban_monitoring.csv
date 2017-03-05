@@ -2,27 +2,27 @@
 #Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-04.accessfonbets.info/test_object.js;http;;access_page
-landing_page;lp-03.fon-sportinfo.info/test_object.js;http;;landing_page
+access_page;ap-05.accessfonbets.info/test_object.js;http;;access_page
+landing_page;lp-04.fon-sportinfo.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-02.smartdirectpath.net/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-01.smartdirectpath.info/test_object.js;http;;metrix_page «adv»
-fon-betsport_xyz;https://m.fon-betsport.xyz/favicons/manifest.json;http/json;;
-fon-betsport_xyz;http://www.fon-betsport.xyz/test_object.js;http;;
-fon-betsport_xyz;https://racing.fon-betsport.xyz/test_object.js;http;;
-fon-betsport_xyz;https://games.fon-betsport.xyz/test_object.js;http;;
 fonsport_xyz;https://m.fonsport.xyz/favicons/manifest.json;http/json;;
 fonsport_xyz;http://www.fonsport.xyz/test_object.js;http;;
 fonsport_xyz;https://racing.fonsport.xyz/test_object.js;http;;
 fonsport_xyz;https://games.fonsport.xyz/test_object.js;http;;
-fonbet##_com;https://m.fonbet25.com/favicons/manifest.json;http/json;;
-fonbet##_com;http://www.fonbet25.com/test_object.js;http;;
-fonbet##_com;https://racing.fonbet25.com/test_object.js;http;;
-fonbet##_com;https://games.fonbet25.com/test_object.js;http;;
-fonbet11_vip;https://m.fonbet11.vip/favicons/manifest.json;http/json;;
-fonbet11_vip;http://www.fonbet11.vip/test_object.js;http;;
-fonbet11_vip;https://racing.fonbet11.vip/test_object.js;http;;
-fonbet11_vip;https://games.fonbet11.vip/test_object.js;http;;
+fonsport_xyz;https://m.fonsport.xyz/favicons/manifest.json;http/json;;
+fonsport_xyz;http://www.fonsport.xyz/test_object.js;http;;
+fonsport_xyz;https://racing.fonsport.xyz/test_object.js;http;;
+fonsport_xyz;https://games.fonsport.xyz/test_object.js;http;;
+fonbet##_com;https://m.fonbet26.com/favicons/manifest.json;http/json;;
+fonbet##_com;http://www.fonbet26.com/test_object.js;http;;
+fonbet##_com;https://racing.fonbet26.com/test_object.js;http;;
+fonbet##_com;https://games.fonbet26.com/test_object.js;http;;
+fonbet_vip;https://m.fonbet11.vip/favicons/manifest.json;http/json;;
+fonbet_vip;http://www.fonbet11.vip/test_object.js;http;;
+fonbet_vip;https://racing.fonbet11.vip/test_object.js;http;;
+fonbet_vip;https://games.fonbet11.vip/test_object.js;http;;
 www_bkfon_ru;https://www.bkfon.ru/img/logo_white.svg;http;;
 fbls;z9c9c5.994c6446febdcb7440.xyz/cipl/test_object.js;http;;fbls_day_mob_201703
 fbls;z9c9c5.3b524322ddf8151c33.xyz/cipl/test_object.js;http;;fbls_day_mob_201704
