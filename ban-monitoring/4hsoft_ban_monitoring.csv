@@ -2,8 +2,8 @@
 #Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-05.accessfonbets.info/test_object.js;http;;access_page
-landing_page;lp-04.fon-sportinfo.info/test_object.js;http;;landing_page
+access_page;ap-01.accessfonbets.online/test_object.js;http;;access_page
+landing_page;lp-05.fon-sportinfo.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-03.smartdirectpath.net/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-01.smartdirectpath.info/test_object.js;http;;metrix_page «adv»
@@ -15,10 +15,10 @@ fon-sport_xyz;https://m.fon-sport.xyz/favicons/manifest.json;http/json;;
 fon-sport_xyz;https://www.fon-sport.xyz/test_object.js;http;;
 fon-sport_xyz;https://racing.fon-sport.xyz/test_object.js;http;;
 fon-sport_xyz;https://games.fon-sport.xyz/test_object.js;http;;
-fonbet26_com;https://m.fonbet26.com/favicons/manifest.json;http/json;;
-fonbet26_com;https://www.fonbet26.com/test_object.js;http;;
-fonbet26_com;https://racing.fonbet26.com/test_object.js;http;;
-fonbet26_com;https://games.fonbet26.com/test_object.js;http;;
+fonbet27.com;https://m.fonbet27.com/favicons/manifest.json;http/json;;
+fonbet27.com;https://www.fonbet27.com/test_object.js;http;;
+fonbet27.com;https://racing.fonbet27.com/test_object.js;http;;
+fonbet27.com;https://games.fonbet27.com/test_object.js;http;;
 fonbet_vip;https://m.fonbet12.vip/favicons/manifest.json;http/json;;
 fonbet_vip;http://www.fonbet12.vip/test_object.js;http;;
 fonbet_vip;https://racing.fonbet12.vip/test_object.js;http;;
