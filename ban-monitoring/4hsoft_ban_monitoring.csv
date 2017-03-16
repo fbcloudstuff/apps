@@ -42,15 +42,15 @@ android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/jso
 ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;ios_client_proxy_list;
 jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;jme_client_proxy_list;
 jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;jme_client_proxy_list;
-fbps01;https://185.82.210.231:9444/serverTime;http/json;;
-fbps01;https://185.82.210.232:9444/serverTime;http/json;;
-fbps01;https://188.42.137.188:9444/serverTime;http/json;;
-fbps01;https://185.82.210.236:9444/serverTime;http/json;;
-#fbps31 ;https://95.211.203.115:9444/serverTime;http/json;;
-#fbps31 ;https://95.211.203.117:9444/serverTime;http/json;;
-#fbps32;https://91.109.22.133:9444/serverTime;http/json;;
-fbps33;https://144.76.160.227:9444/serverTime;http/json;;
-fbps33;https://144.76.160.228:9444/serverTime;http/json;;
+fbps01;https://185.82.210.231:9443/serverTime;http/json;;
+fbps01;https://185.82.210.232:9443/serverTime;http/json;;
+fbps01;https://188.42.137.188:9443/serverTime;http/json;;
+fbps01;https://185.82.210.236:9443/serverTime;http/json;;
+#fbps31 ;https://95.211.203.115:9443/serverTime;http/json;;
+#fbps31 ;https://95.211.203.117:9443/serverTime;http/json;;
+#fbps32;https://91.109.22.133:9443/serverTime;http/json;;
+fbps33;https://144.76.160.227:9443/serverTime;http/json;;
+fbps33;https://144.76.160.228:9443/serverTime;http/json;;
 xen_app;https://xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_lv
 xen_app;https://grs-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_grs
 xen_app;https://dvt-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_dvt
