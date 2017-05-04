@@ -7,14 +7,14 @@ landing_page;lp-02.fon-infosport.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-01.fbmetrix.org/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-04.smartdirectpath.info/test_object.js;http;;metrix_page «adv»
-fon-sportbet_tk;https://m.fon-sportbet.tk/favicons/manifest.json;http/json;;
-fon-sportbet_tk;https://www.fon-sportbet.tk/test_object.js;http;;
-fon-sportbet_tk;https://racing.fon-sportbet.tk/test_object.js;http;;
-fon-sportbet_tk;https://games.fon-sportbet.tk/test_object.js;http;;
 fon-sportbet_cf;https://m.fon-sportbet.cf/favicons/manifest.json;http/json;;
 fon-sportbet_cf;https://www.fon-sportbet.cf/test_object.js;http;;
 fon-sportbet_cf;https://racing.fon-sportbet.cf/test_object.js;http;;
 fon-sportbet_cf;https://games.fon-sportbet.cf/test_object.js;http;;
+bkfonsport_tk;https://m.bkfonsport.tk/favicons/manifest.json;http/json;;
+bkfonsport_tk;https://www.bkfonsport.tk/test_object.js;http;;
+bkfonsport_tk;https://racing.bkfonsport.tk/test_object.js;http;;
+bkfonsport_tk;https://games.bkfonsport.tk/test_object.js;http;;
 fonbet45_com;https://m.fonbet45.com/favicons/manifest.json;http/json;;
 fonbet45_com;https://www.fonbet45.com/test_object.js;http;;
 fonbet45_com;https://racing.fonbet45.com/test_object.js;http;;
