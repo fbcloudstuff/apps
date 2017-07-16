@@ -7,18 +7,18 @@ landing_page;lp-30.fon-infosport.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-24.fbmetrix.org/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-07.fbmetrix.info/test_object.js;http;;metrix_page «adv»
-bk-fon-sport_tk;https://m.bk-fon-sport.tk/favicons/manifest.json;http/json;;
-bk-fon-sport_tk;https://www.bk-fon-sport.tk/test_object.js;http;;
-bk-fon-sport_tk;https://racing.bk-fon-sport.tk/test_object.js;http;;
-bk-fon-sport_tk;https://games.bk-fon-sport.tk/test_object.js;http;;
-#fon-betgame_tk;https://m.#fon-betgame.tk/favicons/manifest.json;http/json;;
-#fon-betgame_tk;https://www.#fon-betgame.tk/test_object.js;http;;
-#fon-betgame_tk;https://racing.#fon-betgame.tk/test_object.js;http;;
-#fon-betgame_tk;https://games.#fon-betgame.tk/test_object.js;http;;
-fonbet68_com;https://m.fonbet68.com/favicons/manifest.json;http/json;;
-fonbet68_com;https://www.fonbet68.com/test_object.js;http;;
-fonbet68_com;https://racing.fonbet68.com/test_object.js;http;;
-fonbet68_com;https://games.fonbet68.com/test_object.js;http;;
+bk-fon-sport_cf;https://m.bk-fon-sport.cf/favicons/manifest.json;http/json;;
+bk-fon-sport_cf;https://www.bk-fon-sport.cf/test_object.js;http;;
+bk-fon-sport_cf;https://racing.bk-fon-sport.cf/test_object.js;http;;
+bk-fon-sport_cf;https://games.bk-fon-sport.cf/test_object.js;http;;
+#bk-fon-bet_cf;https://m.#bk-fon-bet.cf/favicons/manifest.json;http/json;;
+#bk-fon-bet_cf;https://www.#bk-fon-bet.cf/test_object.js;http;;
+#bk-fon-bet_cf;https://racing.#bk-fon-bet.cf/test_object.js;http;;
+#bk-fon-bet_cf;https://games.#bk-fon-bet.cf/test_object.js;http;;
+fonbet69_com;https://m.fonbet69.com/favicons/manifest.json;http/json;;
+fonbet69_com;https://www.fonbet69.com/test_object.js;http;;
+fonbet69_com;https://racing.fonbet69.com/test_object.js;http;;
+fonbet69_com;https://games.fonbet69.com/test_object.js;http;;
 fonbet53_vip;https://m.fonbet53.vip/favicons/manifest.json;http/json;;
 fonbet53_vip;https://www.fonbet53.vip/test_object.js;http;;
 fonbet53_vip;https://racing.fonbet53.vip/test_object.js;http;;
