@@ -7,10 +7,10 @@ landing_page;lp-35.fon-infosport.info/test_object.js;http;;landing_page
 metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-32.fbmetrix.org/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-15.fbmetrix.info/test_object.js;http;;metrix_page «adv»
-fonsport_tk;https://m.fonsport.tk/favicons/manifest.json;http/json;;
-fonsport_tk;https://www.fonsport.tk/test_object.js;http;;
-fonsport_tk;https://racing.fonsport.tk/test_object.js;http;;
-fonsport_tk;https://games.fonsport.tk/test_object.js;http;;
+bkfonsports_cf;https://m.bkfonsports.cf/favicons/manifest.json;http/json;;
+bkfonsports_cf;https://www.bkfonsports.cf/test_object.js;http;;
+bkfonsports_cf;https://racing.bkfonsports.cf/test_object.js;http;;
+bkfonsports_cf;https://games.bkfonsports.cf/test_object.js;http;;
 #world-of-fongame_tk;https://m.world-of-fongame.tk/favicons/manifest.json;http/json;;
 #world-of-fongame_tk;https://www.world-of-fongame.tk/test_object.js;http;;
 #world-of-fongame_tk;https://racing.world-of-fongame.tk/test_object.js;http;;
