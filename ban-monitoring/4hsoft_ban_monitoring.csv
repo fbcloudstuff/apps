@@ -1,59 +1,59 @@
-# service [domain];url;validate;service_caption;host_caption [service]
-#Google-dns-test;8.8.8.8:53;tcp;;
-5000-srv;81.198.186.9:5000;tcp;;5000a
-5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-13.access-fonbet.net/test_object.js;http;;access_page
-landing_page;lp-37.fon-infosport.info/test_object.js;http;;landing_page
-metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
-metrix_page;mp-36.fbmetrix.org/test_object.js;http;;metrix_page «for all»
-metrix_page;mp-19.fbmetrix.info/test_object.js;http;;metrix_page «adv»
-sportinfon_cf;https://m.sportinfon.cf/favicons/manifest.json;http/json;;
-sportinfon_cf;https://www.sportinfon.cf/test_object.js;http;;
-sportinfon_cf;https://racing.sportinfon.cf/test_object.js;http;;
-sportinfon_cf;https://games.sportinfon.cf/test_object.js;http;;
-#bkfonsports_tk;https://m.bkfonsports.tk/favicons/manifest.json;http/json;;
-#bkfonsports_tk;https://www.bkfonsports.tk/test_object.js;http;;
-#bkfonsports_tk;https://racing.bkfonsports.tk/test_object.js;http;;
-#bkfonsports_tk;https://games.bkfonsports.tk/test_object.js;http;;
-fonbet83_com;https://m.fonbet83.com/favicons/manifest.json;http/json;;
-fonbet83_com;https://www.fonbet83.com/test_object.js;http;;
-fonbet83_com;https://racing.fonbet83.com/test_object.js;http;;
-fonbet83_com;https://games.fonbet83.com/test_object.js;http;;
-fonbet68_vip;https://m.fonbet68.vip/favicons/manifest.json;http/json;;
-fonbet68_vip;https://www.fonbet68.vip/test_object.js;http;;
-fonbet68_vip;https://racing.fonbet68.vip/test_object.js;http;;
-fonbet68_vip;https://games.fonbet68.vip/test_object.js;http;;
-www_fonbet_ru;https://www.fonbet.ru/favicons/favicon-16x16.png;http;;
-esports_bet;https://www.esports.bet/urls.json;http/json;;
-#fbls;z9c9c5.994c6446febdcb7440.xyz/cipl/test_object.js;http;;fbls_day_mob_201703
-#fbls;z9c9c5.3b524322ddf8151c33.xyz/cipl/test_object.js;http;;fbls_day_mob_201704
-#fbls;z9c9c5.0d1cc8028012916563.xyz/cipl/test_object.js;http;;fbls_day_mob_201705
-#fbls;z9c9c5.c6c3aef60209c1de54.xyz/cipl/test_object.js;http;;fbls_day_mob_201706
-fbls;z9c9c5.fc64b916334e329bee.xyz/cipl/test_object.js;http;;fbls_day_mob_201707
-fbls;z9c9c5.23ce084f5ccbd434aa.xyz/cipl/test_object.js;http;;fbls_day_mob_201708
-fbls;z9c9c5.190bf9a7687e0c05cb.xyz/cipl/test_object.js;http;;fbls_day_mob_201709
-#fbls;z9c9c5.56da77944fa86649b9.xyz/cipl/test_object.js;http;;fbls_day_mob_201710
-#fbls;z9c9c5.72bf0565e2c15bc798.xyz/cipl/test_object.js;http;;fbls_day_mob_201711
-#fbls;z9c9c5.9369f5d05ac36ff4ed.xyz/cipl/test_object.js;http;;fbls_day_mob_201712
-kladr;http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F;http;KLADR;kladr@mskdc
-a660d996de04720d07d8_xyz;upd-random.a660d996de04720d07d8.xyz/winclient/test_object.js;http;;winclient_conf+upd
-dd9c8d009cde58905f2d_xyz;upd-random.dd9c8d009cde58905f2d.xyz/winclient/test_object.js;http;;winclient_conf+upd
-android_client_proxy_list;http://androiddevdata.github.io/psipl/an.json;http/json/iplist;android_client_proxy_list;
-ios_client_proxy_list;http://fbdevdata.github.io/psipl/mps_v2.json;http/json/iplist;ios_client_proxy_list;
-jme_client_proxy_list;http://fbdevdata.github.io/psipl/jme.list;http/iplist;jme_client_proxy_list;
-jme_client_proxy_list;https://jmedevdata.github.io/psipl/jme.list;http/iplist;jme_client_proxy_list;
-fbps01;https://185.82.210.231:9443/showToto;http/json;;
-fbps01;https://185.82.210.232:9443/showToto;http/json;;
-fbps01;https://188.42.137.188:9443/showToto;http/json;;
-fbps01;https://185.82.210.236:9443/showToto;http/json;;
-#fbps31 ;https://95.211.203.115:9443/showToto;http/json;;
-#fbps31 ;https://95.211.203.117:9443/showToto;http/json;;
-#fbps32;https://91.109.22.133:9443/showToto;http/json;;
-#fbps33;https://144.76.160.227:9443/showToto;http/json;;
-#fbps33;https://144.76.160.228:9443/showToto;http/json;;
-xen_app;https://xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_lv
-xen_app;https://grs-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_grs
-xen_app;https://dvt-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_dvt
-xen_app;https://cor-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_cor
-xen_app;https://bkfon-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_bkfon
-xen_app;https://cuo-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico;http;;xen_app_cuo
+# service [domain],url,validate,service_caption,host_caption [service]
+#Google-dns-test,8.8.8.8:53,tcp,,
+5000-srv,81.198.186.9:5000,tcp,,5000a
+5000-srv,81.198.186.109:5000,tcp,,5000b
+access_page,ap-13.access-fonbet.net/test_object.js,http,,access_page
+landing_page,lp-37.fon-infosport.info/test_object.js,http,,landing_page
+metrix_page,mp-01.smartdirectroute.co/test_object.js,http,,metrix_page «int»
+metrix_page,mp-36.fbmetrix.org/test_object.js,http,,metrix_page «for all»
+metrix_page,mp-19.fbmetrix.info/test_object.js,http,,metrix_page «adv»
+sportinfon_cf,https://m.sportinfon.cf/favicons/manifest.json,http/json,,
+sportinfon_cf,https://www.sportinfon.cf/test_object.js,http,,
+sportinfon_cf,https://racing.sportinfon.cf/test_object.js,http,,
+sportinfon_cf,https://games.sportinfon.cf/test_object.js,http,,
+#bkfonsports_tk,https://m.bkfonsports.tk/favicons/manifest.json,http/json,,
+#bkfonsports_tk,https://www.bkfonsports.tk/test_object.js,http,,
+#bkfonsports_tk,https://racing.bkfonsports.tk/test_object.js,http,,
+#bkfonsports_tk,https://games.bkfonsports.tk/test_object.js,http,,
+fonbet83_com,https://m.fonbet83.com/favicons/manifest.json,http/json,,
+fonbet83_com,https://www.fonbet83.com/test_object.js,http,,
+fonbet83_com,https://racing.fonbet83.com/test_object.js,http,,
+fonbet83_com,https://games.fonbet83.com/test_object.js,http,,
+fonbet68_vip,https://m.fonbet68.vip/favicons/manifest.json,http/json,,
+fonbet68_vip,https://www.fonbet68.vip/test_object.js,http,,
+fonbet68_vip,https://racing.fonbet68.vip/test_object.js,http,,
+fonbet68_vip,https://games.fonbet68.vip/test_object.js,http,,
+www_fonbet_ru,https://www.fonbet.ru/favicons/favicon-16x16.png,http,,
+esports_bet,https://www.esports.bet/urls.json,http/json,,
+#fbls,z9c9c5.994c6446febdcb7440.xyz/cipl/test_object.js,http,,fbls_day_mob_201703
+#fbls,z9c9c5.3b524322ddf8151c33.xyz/cipl/test_object.js,http,,fbls_day_mob_201704
+#fbls,z9c9c5.0d1cc8028012916563.xyz/cipl/test_object.js,http,,fbls_day_mob_201705
+#fbls,z9c9c5.c6c3aef60209c1de54.xyz/cipl/test_object.js,http,,fbls_day_mob_201706
+#fbls,z9c9c5.fc64b916334e329bee.xyz/cipl/test_object.js,http,,fbls_day_mob_201707
+fbls,z9c9c5.23ce084f5ccbd434aa.xyz/cipl/test_object.js,http,,fbls_day_mob_201708
+fbls,z9c9c5.190bf9a7687e0c05cb.xyz/cipl/test_object.js,http,,fbls_day_mob_201709
+fbls,z9c9c5.56da77944fa86649b9.xyz/cipl/test_object.js,http,,fbls_day_mob_201710
+#fbls,z9c9c5.72bf0565e2c15bc798.xyz/cipl/test_object.js,http,,fbls_day_mob_201711
+#fbls,z9c9c5.9369f5d05ac36ff4ed.xyz/cipl/test_object.js,http,,fbls_day_mob_201712
+kladr,http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F,http,KLADR,kladr@mskdc
+a660d996de04720d07d8_xyz,upd-random.a660d996de04720d07d8.xyz/winclient/test_object.js,http,,winclient_conf+upd
+dd9c8d009cde58905f2d_xyz,upd-random.dd9c8d009cde58905f2d.xyz/winclient/test_object.js,http,,winclient_conf+upd
+android_client_proxy_list,http://androiddevdata.github.io/psipl/an.json,http/json/iplist,android_client_proxy_list,
+ios_client_proxy_list,http://fbdevdata.github.io/psipl/mps_v2.json,http/json/iplist,ios_client_proxy_list,
+jme_client_proxy_list,http://fbdevdata.github.io/psipl/jme.list,http/iplist,jme_client_proxy_list,
+jme_client_proxy_list,https://jmedevdata.github.io/psipl/jme.list,http/iplist,jme_client_proxy_list,
+fbps01,https://185.82.210.231:9443/showToto,http/json,,
+fbps01,https://185.82.210.232:9443/showToto,http/json,,
+fbps01,https://188.42.137.188:9443/showToto,http/json,,
+fbps01,https://185.82.210.236:9443/showToto,http/json,,
+#fbps31 ,https://95.211.203.115:9443/showToto,http/json,,
+#fbps31 ,https://95.211.203.117:9443/showToto,http/json,,
+#fbps32,https://91.109.22.133:9443/showToto,http/json,,
+#fbps33,https://144.76.160.227:9443/showToto,http/json,,
+#fbps33,https://144.76.160.228:9443/showToto,http/json,,
+xen_app,https://xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico,http,,xen_app_lv
+xen_app,https://de-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico,http,,xen_app_de
+xen_app,https://dvt-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico,http,,xen_app_dvt
+xen_app,https://cor-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico,http,,xen_app_cor
+xen_app,https://bkfon-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico,http,,xen_app_bkfon
+xen_app,https://cuo-xa.fbsvc.bz/Citrix/XenApp/media/IcaComboAll.ico,http,,xen_app_cuo
