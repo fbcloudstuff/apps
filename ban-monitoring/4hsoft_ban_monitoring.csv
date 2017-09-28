@@ -8,9 +8,9 @@ metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-03.fb-metrix.com/test_object.js;http;;metrix_page «for all»
 metrix_page;mp-39.fbmetrix.info/test_object.js;http;;metrix_page «adv»
 #bk-sportfon_tk;https://m.bk-sportfon.tk/favicons/manifest.json;http/json;;
-betinfon_cf;https://www.betinfon.cf/test_object.js;http;;
-betinfon_cf;https://racing.betinfon.cf/test_object.js;http;;
-betinfon_cf;https://games.betinfon.cf/test_object.js;http;;
+fon-bet-game_cf;https://www.fon-bet-game.cf/test_object.js;http;;
+fon-bet-game_cf;https://racing.fon-bet-game.cf/test_object.js;http;;
+fon-bet-game_cf;https://games.fon-bet-game.cf/test_object.js;http;;
 #bkfonsports_tk;https://m.bkfonsports.tk/favicons/manifest.json;http/json;;
 #bkfonsports_tk;https://www.bkfonsports.tk/test_object.js;http;;
 #bkfonsports_tk;https://racing.bkfonsports.tk/test_object.js;http;;
