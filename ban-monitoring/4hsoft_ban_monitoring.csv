@@ -8,9 +8,6 @@ landing_page;lp-03.fonbet-info.info/test_object.js;http;;landing_page
 metrix_page;mp-01.fb-metrix.net/test_object.js;http;;metrix_page «for all»
 #metrix_page;mp-01.fb-metrix.info/test_object.js;http;;metrix_page «adv»
 #bk-sportfon_tk;https://m.bk-sportfon.tk/favicons/manifest.json;http/json;;
-fonbet-forever_tk;https://www.fonbet-forever.tk/test_object.js;http;;
-fonbet-forever_tk;https://racing.fonbet-forever.tk/test_object.js;http;;
-fonbet-forever_tk;https://games.fonbet-forever.tk/test_object.js;http;;
 invite-to-fonbet_cf;https://www.invite-to-fonbet.cf/test_object.js;http;;
 invite-to-fonbet_cf;https://racing.invite-to-fonbet.cf/test_object.js;http;;
 invite-to-fonbet_cf;https://games.invite-to-fonbet.cf/test_object.js;http;;
@@ -19,13 +16,13 @@ invite-to-fonbet_cf;https://games.invite-to-fonbet.cf/test_object.js;http;;
 #bkfonsports_tk;https://racing.bkfonsports.tk/test_object.js;http;;
 #bkfonsports_tk;https://games.bkfonsports.tk/test_object.js;http;;
 #fonbet92_com;https://m.fonbet92.com/favicons/manifest.json;http/json;;
-fonbet121_com;https://www.fonbet121.com/test_object.js;http;;
-fonbet121_com;https://racing.fonbet121.com/test_object.js;http;;
-fonbet121_com;https://games.fonbet121.com/test_object.js;http;;
+fonbet122_com;https://www.fonbet122.com/test_object.js;http;;
+fonbet122_com;https://racing.fonbet122.com/test_object.js;http;;
+fonbet122_com;https://games.fonbet122.com/test_object.js;http;;
 #fonbet77_vip;https://m.fonbet77.vip/favicons/manifest.json;http/json;;
-fonbet95_vip;https://www.fonbet95.vip/test_object.js;http;;
-fonbet95_vip;https://racing.fonbet95.vip/test_object.js;http;;
-fonbet95_vip;https://games.fonbet95.vip/test_object.js;http;;
+fonbet96_vip;https://www.fonbet96.vip/test_object.js;http;;
+fonbet96_vip;https://racing.fonbet96.vip/test_object.js;http;;
+fonbet96_vip;https://games.fonbet96.vip/test_object.js;http;;
 www_fonbet_ru;https://www.fonbet.ru/favicons/favicon-16x16.png;http;;
 esports_bet;https://www.esports.bet/urls.json;http/json;;
 liveodds;liveodds.fbsvc.bz:8080;http;;
