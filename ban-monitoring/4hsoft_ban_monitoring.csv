@@ -2,27 +2,27 @@
 #Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-11.access-fonbet.club/test_object.js;http;;access_page
-landing_page;lp-04.info-fonbet.info/test_object.js;http;;landing_page
+access_page;ap-12.access-fonbet.club/test_object.js;http;;access_page
+landing_page;lp-05.info-fonbet.info/test_object.js;http;;landing_page
 #metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
 metrix_page;mp-01.fbmetrix-ffdc0.tk/test_object.js;http;;metrix_page «for all»
 #metrix_page;mp-01.fb-metrix.info/test_object.js;http;;metrix_page «adv»
 #bk-sportfon_tk;https://m.bk-sportfon.tk/favicons/manifest.json;http/json;;
-fonbet-31c88_tk;https://www.fonbet-31c88.tk/test_object.js;http;;
-fonbet-31c88_tk;https://racing.fonbet-31c88.tk/test_object.js;http;;
-fonbet-31c88_tk;https://games.fonbet-31c88.tk/test_object.js;http;;
+fonbet-52bdc_tk;https://www.fonbet-52bdc.tk/test_object.js;http;;
+fonbet-52bdc_tk;https://racing.fonbet-52bdc.tk/test_object.js;http;;
+fonbet-52bdc_tk;https://games.fonbet-52bdc.tk/test_object.js;http;;
 #bkfonsports_tk;https://m.bkfonsports.tk/favicons/manifest.json;http/json;;
 #bkfonsports_tk;https://www.bkfonsports.tk/test_object.js;http;;
 #bkfonsports_tk;https://racing.bkfonsports.tk/test_object.js;http;;
 #bkfonsports_tk;https://games.bkfonsports.tk/test_object.js;http;;
 #fonbet92_com;https://m.fonbet92.com/favicons/manifest.json;http/json;;
-fonbet132_com;https://www.fonbet132.com/test_object.js;http;;
-fonbet132_com;https://racing.fonbet132.com/test_object.js;http;;
-fonbet132_com;https://games.fonbet132.com/test_object.js;http;;
+fonbet133_com;https://www.fonbet133.com/test_object.js;http;;
+fonbet133_com;https://racing.fonbet133.com/test_object.js;http;;
+fonbet133_com;https://games.fonbet133.com/test_object.js;http;;
 #fonbet77_vip;https://m.fonbet77.vip/favicons/manifest.json;http/json;;
-fonbet107_vip;https://www.fonbet107.vip/test_object.js;http;;
-fonbet107_vip;https://racing.fonbet107.vip/test_object.js;http;;
-fonbet107_vip;https://games.fonbet107.vip/test_object.js;http;;
+fonbet108_vip;https://www.fonbet108.vip/test_object.js;http;;
+fonbet108_vip;https://racing.fonbet108.vip/test_object.js;http;;
+fonbet108_vip;https://games.fonbet108.vip/test_object.js;http;;
 www_fonbet_ru;https://www.fonbet.ru/favicons/favicon-16x16.png;http;;
 esports_bet;https://www.esports.bet/urls.json;http/json;;
 liveodds;liveodds.fbsvc.bz:8080;http;;
