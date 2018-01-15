@@ -2,23 +2,23 @@
 #Google-dns-test;8.8.8.8:53;tcp;;
 5000-srv;81.198.186.9:5000;tcp;;5000a
 5000-srv;81.198.186.109:5000;tcp;;5000b
-access_page;ap-01.accessfonbet-b927a.tk/test_object.js;http;;access_page
-landing_page;lp-02.infofonbet-f6f63.tk/test_object.js;http;;landing_page
+access_page;ap-01.accessfonbet-1b524.tk/test_object.js;http;;access_page
+landing_page;lp-10.infofonbet-43823.tk/test_object.js;http;;landing_page
 #metrix_page;mp-01.smartdirectroute.co/test_object.js;http;;metrix_page «int»
-metrix_page;mp-01.fbmetrix-c3dd4.tk/test_object.js;http;;metrix_page «for all»
+metrix_page;mp-01.fbmetrix-92493.tk/test_object.js;http;;metrix_page «for all»
 #metrix_page;mp-01.fb-metrix.info/test_object.js;http;;metrix_page «adv»
 #bk-sportfon_tk;https://m.bk-sportfon.tk/favicons/manifest.json;http/json;;
-fonbet-b813d_tk;https://www.fonbet-b813d.tk/test_object.js;http;;
-fonbet-b813d_tk;https://racing.fonbet-b813d.tk/test_object.js;http;;
-fonbet-b813d_tk;https://games.fonbet-b813d.tk/test_object.js;http;;
+fonbet-83c2c_tk;https://www.fonbet-83c2c.tk/test_object.js;http;;
+fonbet-83c2c_tk;https://racing.fonbet-83c2c.tk/test_object.js;http;;
+fonbet-83c2c_tk;https://games.fonbet-83c2c.tk/test_object.js;http;;
 #bkfonsports_tk;https://m.bkfonsports.tk/favicons/manifest.json;http/json;;
 #bkfonsports_tk;https://www.bkfonsports.tk/test_object.js;http;;
 #bkfonsports_tk;https://racing.bkfonsports.tk/test_object.js;http;;
 #bkfonsports_tk;https://games.bkfonsports.tk/test_object.js;http;;
 #fonbet92_com;https://m.fonbet92.com/favicons/manifest.json;http/json;;
-fonbet140_com;https://www.fonbet140.com/test_object.js;http;;
-fonbet140_com;https://racing.fonbet140.com/test_object.js;http;;
-fonbet140_com;https://games.fonbet140.com/test_object.js;http;;
+#fonbet142_com;https://www.fonbet142.com/test_object.js;http;;
+#fonbet142_com;https://racing.fonbet142.com/test_object.js;http;;
+#fonbet142_com;https://games.fonbet142.com/test_object.js;http;;
 #fonbet77_vip;https://m.fonbet77.vip/favicons/manifest.json;http/json;;
 #fonbet113_vip;https://www.fonbet113.vip/test_object.js;http;;
 #fonbet113_vip;https://racing.fonbet113.vip/test_object.js;http;;
@@ -36,9 +36,9 @@ vbr_robots;vbr.fbc.io;http;;
 #fbls;xxx.23ce084f5ccbd434aa.xyz/cipl/test_object.js;http;;fbls_day_mob_201708
 #fbls;xxx.190bf9a7687e0c05cb.xyz/cipl/test_object.js;http;;fbls_day_mob_201709
 #fbls;xxx.56da77944fa86649b9.xyz/cipl/test_object.js;http;;fbls_day_mob_201710
-fbls;xxx.72bf0565e2c15bc798.xyz/cipl/test_object.js;http;;fbls_day_mob_201711
-fbls;xxx.9369f5d05ac36ff4ed.xyz/cipl/test_object.js;http;;fbls_day_mob_201712
 fbls;xxx.2cba60e65b3328a97e.xyz/cipl/test_object.js;http;;fbls_day_mob_201801
+fbls;xxx.781562c135255c8a5b.xyz/cipl/test_object.js;http;;fbls_day_mob_201801
+fbls;xxx.a2341e99d0a2f2982f.xyz/cipl/test_object.js;http;;fbls_day_mob_201802
 kladr;http://185.79.117.35/getobjects?value=%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F;http;KLADR;kladr@mskdc
 web_static;https://static-www002.ccf4ab51771cacd46d.com/header3/img/rus-on.svg;http;;ccf4ab51771cacd46d.com
 web_static;https://static-www002.e6cf1b2fba639af003.com/header3/img/rus-on.svg;http;;e6cf1b2fba639af003.com
